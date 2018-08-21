@@ -86,3 +86,6 @@ Para la creación de nuestro User Persona comenzamos con una lluvia de ideas bas
 
 ### User Persona
 ![User-persona](images/UserPersona.jpg)
+
+### Costumer Journey
+![Costumer-Journey](images/CostumerJourney.jpg)
