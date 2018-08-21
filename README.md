@@ -91,5 +91,5 @@ Uno de nuestros insights en el proceso de entrevistas
 ### Costumer Journey
 ![Costumer-Journey](images/CostumerJourney.jpg)
 
-####Presentación
-![Primera Presentación Cliente](https://drive.google.com/file/d/1mvpoj-8I66E0832WgFmVDeFH1BOkRq7M/view?usp=sharing)
+#### Presentación
+[Primera Presentación Cliente](https://drive.google.com/file/d/1mvpoj-8I66E0832WgFmVDeFH1BOkRq7M/view?usp=sharing)
