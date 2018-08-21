@@ -85,8 +85,10 @@ Para la creación de nuestro User Persona comenzamos con una lluvia de ideas bas
 ![empaty-map](images/empaty-map.png)
 
 #### User Persona
-Uno de nuestros insights en el proceso de entrevistas
+La persona la construimos con base a las entrevistas con nuestro cliente, por fortuna, y gracias al contacto tan directo que generan con el usuario, nos pudieron dar datos muy coherentes y precisos con rescpecto a quiénes son sus usuarios, cómo se comportan y cuáles son sus paint points.
+
 ![User-persona](images/UserPersona.jpg)
+
 
 ### Costumer Journey
 ![Costumer-Journey](images/CostumerJourney.jpg)
