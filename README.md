@@ -44,6 +44,28 @@ En esta primer etapa identificamos las necesidades de los usuarios y las necesid
 [Transcipción Segunda Entrevista Cliente](https://drive.google.com/open?id=1zw6u3-rAH1aebbUoBz_Rll9cvTUtdL77Mhwh5sW2qDs)
 
 
+## Búsquedas en la web
+
+> Se entiende por cartuchos compatibles aquellos en los que de todo lo que le compone es totalmente nuevo, incluido carcasas, tornillería y engranajes. Por tanto se trata de un producto nuevo y que tiene un aspecto diferente al del consumible original.
+Los cartuchos reciclados, también llamados remanufacturados,  son aquellos que partiendo de  cartuchos originales vacíos son sometidos a un proceso de desmontaje, limpieza, sustitución de componentes, sellado, rellenado, montaje y control final de impresión. Se usan tóner/tinta específicas para cada modelo y todos los componentes mecánicos y eléctricos que desarrollan la impresión previa son sustituidos por componentes totalmente nuevos. Normalmente lo único que se reutiliza son las carcasas exteriores (dependiendo de su estado), tornillería y engranajes.
+Un cartucho original es aquel que está fabricado bajo la marca del fabricante original, por tanto lleva su sello y no ha sido fabricado por la marca.
+[Compatibles y reciclados VS Originales](http://www.ahorraentinta.com/blog/blog-toner/compatibles-y-reciclados-versus-originales/)
+
+
+> Muy pocas empresas se preocupan de sustituir las piezas de desgaste de los toners, que las tienen, simplemente rellenan, y claro, luego vienen los problemas.
+[Toner original VS toner compatible
+](https://www.mur3.com/toner-original-vs-toner-compatible)
+
+[Infografía: descubriendo los problemas del tóner no original
+](https://www.muycomputer.com/2015/10/29/infografia-descubriendo-los-problemas-del-toner-no-original/)
+
+### Benchmark comparativo ventajas y desventajas tipos de toner
+![Benchmark-comparativo](images/Benchmark comparativo.png)
+
+
+
+
+
 ## Síntesis y definición
 
 
