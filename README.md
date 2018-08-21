@@ -28,7 +28,7 @@ En esta primer etapa identificamos las necesidades de los usuarios y las necesid
 
 1.- Comprobamos nuevamente que el fuerte de este negocio es el seguimiento de la venta y la atención personalizada al cliente.
 
-2.- Aunque tienen claro que quieren alcanzar a las grandes oficinas o empresas, y mucho de su esfuerzo va dirigido a ello, hay más probabilidad que por el momento su mercado se limite a negocios pequeños y hogares o freelancers. 
+2.- Aunque tienen claro que quieren alcanzar a las grandes oficinas o empresas, y mucho de su esfuerzo va dirigido a ello, hay más probabilidad que por el momento su mercado se limite a negocios pequeños y hogares o freelancers.
 
 3.- Sin embargo el perfil del target es acertado ( oficinas, notarias, consultorios médicos, escuelas, agentes automotrices, agentes de viajes, similares).
 
@@ -60,7 +60,7 @@ Un cartucho original es aquel que está fabricado bajo la marca del fabricante o
 ](https://www.muycomputer.com/2015/10/29/infografia-descubriendo-los-problemas-del-toner-no-original/)
 
 ### Benchmark comparativo ventajas y desventajas tipos de toner
-![Benchmark-comparativo](images/Benchmark comparativo.png)
+![Benchmark-comparativo](images/Benchmark_comparativo.png)
 
 
 
