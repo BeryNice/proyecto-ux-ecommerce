@@ -80,12 +80,16 @@ Para la creación de nuestro User Persona comenzamos con una lluvia de ideas bas
 
 
 
-### Mapa de empatía
+#### Mapa de empatía
 
 ![empaty-map](images/empaty-map.png)
 
-### User Persona
+#### User Persona
+Uno de nuestros insights en el proceso de entrevistas
 ![User-persona](images/UserPersona.jpg)
 
 ### Costumer Journey
 ![Costumer-Journey](images/CostumerJourney.jpg)
+
+####Presentación
+![Primera Presentación Cliente](https://drive.google.com/file/d/1mvpoj-8I66E0832WgFmVDeFH1BOkRq7M/view?usp=sharing)
