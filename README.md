@@ -25,7 +25,6 @@ En esta primer etapa identificamos las necesidades de los usuarios y las necesid
 
 
 ### Insights del Negocio
-
 1.- Comprobamos nuevamente que el fuerte de este negocio es el seguimiento de la venta y la atención personalizada al cliente.
 
 2.- Aunque tienen claro que quieren alcanzar a las grandes oficinas o empresas, y mucho de su esfuerzo va dirigido a ello, hay más probabilidad que por el momento su mercado se limite a negocios pequeños y hogares o freelancers.
@@ -70,18 +69,19 @@ Un cartucho original es aquel que está fabricado bajo la marca del fabricante o
 
 
 
-
-
 ## Síntesis y definición
 
 
 ### Proceso de creación user persona
 
-Para la creación de nuestro User Persona comenzamos con una lluvia de ideas basado en lo que detectamos en las entrevistas a usuarios, en las que identificamos cuáles son sus necesidades, miedos y deseos
+Para la creación de nuestro User Persona comenzamos con una lluvia de ideas basado en lo que detectamos en las entrevistas a usuarios, en las que identificamos cuáles son sus necesidades, miedos y deseos.
 
 ![ideación-user-persona](images/documentacion-user.jpg)
 
+
+
 ### Mapa de empatía
+
 ![empaty-map](images/empaty-map.png)
 
 ### User Persona
