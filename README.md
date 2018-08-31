@@ -92,3 +92,103 @@ Servicios:
 * Proporcionar a los clientes y prospectos información sobre el uso confiable de cartuchos remanufacturados.
 * Proporcionar a los prospectos y clientes la información de servicios y productos adicionales a los cartuchos remanufacturados.
 * Compartir la experiencia del uso de cartuchos remanufacturados de clientes actuales a través de testimoniales.
+
+
+## Descubrimiento e investigación
+### Primera Entrevista con el Cliente
+
+En esta primera entrevista buscamos conocer más a detalle cómo es la estructura de la empresa, sus productos y sus procesos, para ello desarrollamos un protocolo que nos dio una guía de lo que necesitamos saber para poder comenzar el procesos de ubicar las dolencias y detectar problemas.
+
+[Guía para entrevista cliente](https://drive.google.com/open?id=1BBiWblK_G-skLgLjwi8Y0DMxcKxy6ngVk88NWFeVfoQ)
+
+[Transcipción Primera Entrevista Cliente](https://drive.google.com/open?id=1mlTGSyEpSw-VhyUcgnF4gmHe79sw2E5XUHoA7j__q9k)
+
+### Segunda Entrevista con el Cliente
+
+El motivo de esta entrevista es platicar con la otra parte de la asociación del negocio Juliana Silva pues ella se encarga de la búsqueda de clientes y concretar ventas, por lo que nos interesa conocer sus procesos para así generar insights que puedan devenir en crear la persona usuario y su customer journey.
+
+
+Fecha: 19 de agosto 2018
+Duración de la primera grabación: 17 min
+
+
+[Transcipción Segunda Entrevista Cliente](https://drive.google.com/open?id=1zw6u3-rAH1aebbUoBz_Rll9cvTUtdL77Mhwh5sW2qDs)
+
+#### Insights entrevista con el cliente
+
+1.- Comprobamos nuevamente que el fuerte de este negocio es el seguimiento de la venta y la atención personalizada al cliente.
+
+2.- Aunque tienen claro que quieren alcanzar a las grandes oficinas o empresas, y mucho de su esfuerzo va dirigido a ello, hay más probabilidad que por el momento su mercado se limite a negocios pequeños y hogares o freelancers.
+
+3.- Sin embargo el perfil del target es acertado ( oficinas, notarias, consultorios médicos, escuelas, agentes automotrices, agentes de viajes, similares).
+
+4.- La meta para con cliente debe ser generar un ecommerce que los ayude a consolidarse y generar confianza en sus posibles compradores para así hacer más ágil el proceso de ventas.
+
+5.- También recomendamos al cliente que establezca una comunicación profesional en sus redes sociales.
+
+
+#### HIPÓTESIS
+
+* La principal necesidad del cliente es generar un sentimiento de confianza, en este momento les cuesta mucho trabajo que las personas crean que su negocio existe.
+* De la variedad de ecommerce que vimos en la consultoría con Mike, es probable que la lista de difusión por whatsapp les funcione ya que uno de sus principales puntos fuertes que tienen es la relación cercana con su cliente.
+
+
+### Entrevista con Usuarios
+
+Después de la información obtenida por el cliente pudimos esbozar un primer perfil de usuario y buscar individuos que cumplieran con estas características para obtener su perspectiva en cuanto al producto y servicios que ofrece GIC Toner.
+
+[Guía para entrevista usuarios](https://drive.google.com/open?id=1BGC9VQ6qAvL7ctkC-pfeVFE9OJbSGO1WWB97m8TBoM0)
+
+[Transcipción entrevistas usuarios](https://drive.google.com/open?id=1z4isjIAOpzccIR7eaKp34juUJPLZ0YJ0EmEP6tPX20k)
+
+
+### Insights Entrevistas Usuarios
+
+* Comprar cartuchos genéricos o remanufacturados reduce en gran porcentaje los costos.
+* A pesar de que los cartuchos genéricos o remanufacturados no rinden la misma cantidad de impresiones, es más económico comprar 2 cartuchos que uno original.
+* Hemos probado cartuchos remanufacturados y ese cartucho fue el que mayor rendimiento tuvo.
+* Tenían el tóner que necesitábamos con entrega inmediata cuando los cartuchos originales tardaban 6 semanas en entregarlo.
+* Todas las empresas están buscando actualmente bajar costos de muchas maneras, en este caso en la cantidad de impresiones y la calidad del servicio también debe ser buena.
+* Creo que cualquier accesorio o pieza que sea remanufacturada siempre y cuando tenga una garantía y veamos que sí funciona el ahorro sería beneficioso en cuanto a la adquisición de esa compra.
+* Creo que todos es lo que buscamos, como dicen bueno, bonito y barato.
+* Hay veces que se necesita la entrega inmediata que es lo que muchos proveedores no cuentan.
+* Casi siempre en una empresa urge para el día de ayer, entonces eso es lo que tomaría en cuenta, incluso entrega a deshoras porque hay veces que ses les acaba y tienen que sacar la chamba.
+
+
+### Insights del Negocio
+1.- Comprobamos nuevamente que el fuerte de este negocio es el seguimiento de la venta y la atención personalizada al cliente.
+
+2.- Aunque tienen claro que quieren alcanzar a las grandes oficinas o empresas, y mucho de su esfuerzo va dirigido a ello, hay más probabilidad que por el momento su mercado se limite a negocios pequeños y hogares o freelancers.
+
+3.- Sin embargo el perfil del target es acertado ( oficinas, notarias, consultorios médicos, escuelas, agentes automotrices, agentes de viajes, similares).
+
+4.- La meta para con cliente debe ser generar un ecommerce que los ayude a consolidarse y generar confianza en sus posibles compradores para así hacer más ágil el proceso de ventas.
+
+5.- También recomendamos al cliente que establezca una comunicación profesional en sus redes sociales.
+
+6.- Gracias a su atención personalizada el cliente ha podido descubrir que la mayor falla de su competencia es su inconstancia y pésimo seguimiento al usuario.
+
+
+## Investigación sobre el producto
+
+
+#### Qué se entiende por cartuchos originales, compatibles y remanufacturados
+> Se entiende por cartuchos compatibles aquellos en los que de todo lo que le compone es totalmente nuevo, incluido carcasas, tornillería y engranajes. Por tanto se trata de un producto nuevo y que tiene un aspecto diferente al del consumible original.
+Los cartuchos reciclados, también llamados remanufacturados,  son aquellos que partiendo de  cartuchos originales vacíos son sometidos a un proceso de desmontaje, limpieza, sustitución de componentes, sellado, rellenado, montaje y control final de impresión. Se usan tóner/tinta específicas para cada modelo y todos los componentes mecánicos y eléctricos que desarrollan la impresión previa son sustituidos por componentes totalmente nuevos. Normalmente lo único que se reutiliza son las carcasas exteriores (dependiendo de su estado), tornillería y engranajes.
+Un cartucho original es aquel que está fabricado bajo la marca del fabricante original, por tanto lleva su sello y no ha sido fabricado por la marca.
+
+[Compatibles y reciclados VS Originales](http://www.ahorraentinta.com/blog/blog-toner/compatibles-y-reciclados-versus-originales/)
+
+
+#### Toner original contra compatible
+> Muy pocas empresas se preocupan de sustituir las piezas de desgaste de los toners, que las tienen, simplemente rellenan, y claro, luego vienen los problemas.
+[Toner original VS toner compatible
+](https://www.mur3.com/toner-original-vs-toner-compatible)
+
+
+#### Infografía HP
+[Infografía: descubriendo los problemas del tóner no original
+](https://www.muycomputer.com/2015/10/29/infografia-descubriendo-los-problemas-del-toner-no-original/)
+
+### Benchmark comparativo ventajas y desventajas tipos de toner
+![Benchmark-comparativo](images/Benchmark-comparativo.png)
