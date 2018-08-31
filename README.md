@@ -93,6 +93,7 @@ Servicios:
 * Proporcionar a los prospectos y clientes la información de servicios y productos adicionales a los cartuchos remanufacturados.
 * Compartir la experiencia del uso de cartuchos remanufacturados de clientes actuales a través de testimoniales.
 
+[Modelo de Negocio](https://docs.google.com/document/d/1ZpI653SXqLEvcTGCAWiWFU43xgc5bh1BFQxQF08MD5c/edit?usp=sharing)
 
 ## Descubrimiento e investigación
 ### Primera Entrevista con el Cliente
@@ -224,3 +225,112 @@ Después de esta entrevista con el cliente y su socia (vendedora) pudimos obtene
 * Las vendedoras son agentes activos dentro del flujo de la venta.
 * La experiencia del usuario es muy placentera ya que es un cliente asiduo pero muy dolorosa cuando es un cliente nuevo pues está lleno de incertidumbres.
 * La mayoría de los procesos son OFF Line.
+
+
+### Tercera entrevista al cliente
+
+Realizamos una tercera entrevista con el cliente para disipar dudas concretas sobre los procesos que manejan, por ejemplo: ¿qué pasa después de mandar la carta presentación? ¿Se comunican nuevamente con clientes que rechazan de primera instancia? ¿Cómo se hacen paso por paso la entrega del producto?
+
+#### Insights
+
+* Tienen un servicio de ENTREGA EXPRESS con un costo muy económico.
+* No han podido soltar a un tercero la entrega pues no han encontrado un proveedor confiable.
+* La calidad de la página y la falta de estrategia de medios digitales son resultado de ignorar cómo hacer uso de estos medios.
+* Tienen chat en la página pero no lo atienden de forma constante.
+* Hubo una situación con el whatsapp y una vendedora que devino en la pérdida de un cliente importante.
+* Whatsapp se presta al coqueteo.
+* Confían mucho en la calidad de su producto.
+* Les gustaría surtir clientes intermediarios.
+* Tienen muy bien planificada su estrategia de venta OFF Line con respecto a la temporalidad de las llamadas de las vendedoras a sus usuarios.
+* Establecen patrones de compra con respecto a la facturación.
+
+### BENCHMARK
+[Benchmarks en Excel](https://docs.google.com/spreadsheets/d/1ULUEUPA4drl1JHAzyJt6YSb4sNF4c7fk7JEqYCzJD2c/edit?usp=sharing)
+
+##### BENCHMARK Competencia.
+
+En la comparativa de servicios de los competidores los valores a mapear fueron:
+
+* Lema.
+* Si cuentan con tienda en línea.
+* Promesa de ahorro en cartuchos remanufacturados.
+* Tipos de pago que ofrecen.
+* Envíos sin costo.
+* Costo de envío local y foráneo.
+* Tipo de entrega.
+* Si ofrecen entrega Express.
+* Devoluciones.
+* Garantía.
+* Atención a clientes personalizada.
+* Certificaciones obtenidas.
+
+**Conclusiones:**
+
+* Entre los competidores más fuertes observamos que cuentan con tienda en línea lo que hace que sean rivales aún más grandes, además de tener presencia en distintas ciudades ofrecen envío gratuito sin mínimo de compra en CDMX o gratis al recogerlo directamente en tienda, La mayoría de los competidores analizados manejan envío a través de terceros y un servicio express no mayor a 3 hrs. o entre 24 y 48 hrs. con precios que rondan entre los $87 y $120, todos los competidores comparados ofrecen atención a clientes personalizada y sólo uno de ellos muestra una certificación ISO 9001:14001 en su sitio web.
+
+* En conclusión, aunque consideramos que la atención personalizada y entrega gratuita en 24 hrs era lo que hacía especial a nuestro cliente, con este análisis pudimos observar que la mayoría de los competidores ofrecen cosas muy similares por lo cual nuestra estrategia sería destacarlos por la calidad de su producto, abordando la temática de cartuchos remanufacturados de una forma ecológica, con esto disminuiría la carga negativa hacia el uso de cartuchos remanufacturados     logrando así un diferenciador frente a la competencia.
+
+
+##### BENCHMARK SERVICIOS.
+
+Con respecto a la comparativa de servicios observamos detalles de funcionamiento de tres plataformas que son líderes dentro del ramo:
+
+**1. Pedidos.com**
+
+**2. TANDEM**
+
+**3. Office Depot**
+
+Los valores a mapear fueron:
+
+1. Tipo de pago.
+2. Tipo de envío.
+3. Costo del envío.
+4.  Si cuentan con entrega express.
+5.  Si cuentan con el producto Toner.
+6.  Qué tipo de atención a clientes ofrecen.
+
+### Conclusiones
+
+* Las tres empresas son enormes dentro de su ramo y por ello tienen la capacidad de dar un servicio barato y envío gratis, y atención a clientes inmediata mediante chats, las tres opciones mapeadas cuentan con un catálogo inmenso de productos y en su mayoría es el cliente quien tiene que hacer las gestiones, sin dejar que eso le quite lo eficiente o lo conveniente a su servicio.
+
+* En conclusión, aunque no podemos competir en cuestión a volumen con estas tiendas, nuestro cliente se distingue por su producto económico y por adaptarse a las necesidades de sus usuarios, quizás no puedan ser como Office Depot todavía pero si pueden quitarle algunos clientes.
+
+
+## Arquitectura de la Información.
+
+En el proceso de generar la organización no sólo del sitio sino también del flujo del servicio nos dimos a la tarea de utilizar recursos como card sorting, investigación heurística y benchmark para solucionar las dificultades en su sitio web de nuestro cliente.
+
+### Problemas detectados en el sitio de GIC Tóner.
+
+* La categorización de la página actual de **GIC Tóner** es muy confusa ya que repite temas en distintas ubicaciones de la página con contenido distinto, esto da una sensación de angustia y de falta de profesionalismo, además que es difícil encontrar la información que se necesita.
+
+* Se percibe como un template genérico de Wordpress.
+* La página no es https y te anuncia que no es segura.
+* Se muestra como una tienda en línea pero no tiene ninguna función real de tienda.
+* El chat es poco atendido.
+
+
+### CARDSORTING
+**Insights**
+
+Con todas las pruebas que hicimos con nuestros usuarios nos dimos cuenta que en realidad ninguno tuvo como una categorización que revelara un patrón claro pero, si nos dieron parámetros de agrupación esenciales:
+
+* Agrupación de todo lo que tiene que ver con la empresa en uno o dos niveles pero junto.
+* Agrupación de todo lo que tiene que ver con productos y servicios en una misma categoría o dos distintas, si había una identificación de los elementos.
+* La tarjeta donde el cliente mostraba su misión, visión y valores llamada POLVO SOMOS les parecía incomprensible.
+* Hay que centralizar la información de los productos.
+* Garantía GIC Tóner puede ser un valor esencial de la marca.
+* Se mencionó la necesidad de una facturación sencilla.
+
+
+### Proceso de Sketching
+[Arquitectura del Sitio](https://docs.google.com/spreadsheets/d/1bat1mqbvj5UUfIw6Uy_ITcPavLg-YFJCTn_Shw5aLU8/edit?usp=sharing)
+
+Como parte de la estrategia para captación de clientes, decidimos crear una landing page a la cual se le pueda invertir en Google Ads. Esta Landing Page cuenta con las propuestas de valor más importantes de la marca.
+
+**Sketch de landing page. **
+
+Como resultado del experimento de CardSorting pudimos reorganizar los contenidos de la página a lo más importante, dándole también una unidad estética entre la landing page, el sitio web y la carta presentación.
+
+**Sketch de reestructuración del sitio.**
