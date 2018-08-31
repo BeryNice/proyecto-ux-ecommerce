@@ -397,4 +397,5 @@ Uno de los principales temores de los usuarios es que al utilizar cartuchos rema
 Por ello es muy importante tratar de cambiar el enfoque que tienen los usuarios acerca de los cartuchos remanufacturados a través de palabras que agreguen un valor positivo como renovados y ecológicos, ya que finalmente estas dos palabras definen en realidad a este tipo de producto.
 
 ![Prototipo Figma](images/prototipo.jpg)
-[Prototipo Figma](https://www.figma.com/proto/rCFanWCefPPivyY8UkXbQf/Prototipo-Website-GIC-T%C3%B3ner-(Copy)?scaling=min-zoom)
+[Prototipo Figma](https://www.figma.com/proto/rCFanWCefPPivyY8UkXbQf/Prototipo-Website-GIC-T%C3%B3ner-Copy?scaling=min-zoom)
+[Landing](https://www.figma.com/proto/O3TWQnXO47hnyEFfWYVyrhnV/Landing-Page?scaling=min-zoom)
