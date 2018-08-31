@@ -344,7 +344,11 @@ Como parte de la estrategia para captación de clientes, decidimos crear una lan
 
 Como resultado del experimento de CardSorting pudimos reorganizar los contenidos de la página a lo más importante, dándole también una unidad estética entre la landing page, el sitio web y la carta presentación.
 
+![Sketch landing](images/IMG_6077.JPG)
+
 **Sketch de reestructuración del sitio.**
+![Sketch sitio](images/IMG_6112.JPG)
+
 
 ### Wireframes
 
