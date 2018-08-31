@@ -329,7 +329,7 @@ Con todas las pruebas que hicimos con nuestros usuarios nos dimos cuenta que en 
 
 Como parte de la estrategia para captación de clientes, decidimos crear una landing page a la cual se le pueda invertir en Google Ads. Esta Landing Page cuenta con las propuestas de valor más importantes de la marca.
 
-**Sketch de landing page. **
+**Sketch de landing page.**
 
 Como resultado del experimento de CardSorting pudimos reorganizar los contenidos de la página a lo más importante, dándole también una unidad estética entre la landing page, el sitio web y la carta presentación.
 
