@@ -192,3 +192,35 @@ Un cartucho original es aquel que está fabricado bajo la marca del fabricante o
 
 ### Benchmark comparativo ventajas y desventajas tipos de toner
 ![Benchmark-comparativo](images/Benchmark-comparativo.png)
+
+
+## Proceso creación User Persona
+
+Para la creación de nuestro User Persona comenzamos con una lluvia de ideas basado en lo que detectamos en las entrevistas a usuarios, en las que identificamos cuáles son sus necesidades, miedos y deseos.
+
+![ideación-user-persona](images/documentacion-user.jpg)
+
+
+#### Mapa de empatía
+
+![empaty-map](images/empaty-map.png)
+
+#### User Persona
+La persona la construimos con base a las entrevistas con nuestro cliente y entrevistas con usuarios potenciales. Cabe destacar que gracias al contacto tan directo que genera el servicio a cliente de GIC Tóner con el usuario,  nos pudieron proporcionar gran cantidad de detalles y datos muy coherentes y precisos sobre cómo se comportan y cuáles son sus paint points.
+
+![User-persona](images/UserPersona.jpg)
+
+
+Después de esta entrevista con el cliente y su socia (vendedora) pudimos obtener datos concretos sobre el proceso de compra, los dolores tanto de las vendedoras como de los usuarios no sólo en cuanto al servicio de GIC Tóner, sino también en cuanto a sus experiencias negativas previas con otros proveedores.
+
+
+### Costumer Journey
+![Costumer-Journey](images/CostumerJourney.jpg)
+
+
+### Insights de este proceso
+
+* Requiere mucho tiempo, dinero y energía hacer una conversión.
+* Las vendedoras son agentes activos dentro del flujo de la venta.
+* La experiencia del usuario es muy placentera ya que es un cliente asiduo pero muy dolorosa cuando es un cliente nuevo pues está lleno de incertidumbres.
+* La mayoría de los procesos son OFF Line.
