@@ -225,6 +225,7 @@ Después de esta entrevista con el cliente y su socia (vendedora) pudimos obtene
 * La experiencia del usuario es muy placentera ya que es un cliente asiduo pero muy dolorosa cuando es un cliente nuevo pues está lleno de incertidumbres.
 * La mayoría de los procesos son OFF Line.
 
+
 ### Tercera entrevista al cliente
 
 Realizamos una tercera entrevista con el cliente para disipar dudas concretas sobre los procesos que manejan, por ejemplo: ¿qué pasa después de mandar la carta presentación? ¿Se comunican nuevamente con clientes que rechazan de primera instancia? ¿Cómo se hacen paso por paso la entrega del producto?
@@ -243,11 +244,33 @@ Realizamos una tercera entrevista con el cliente para disipar dudas concretas so
 * Establecen patrones de compra con respecto a la facturación.
 
 ### BENCHMARK
-
-- BENCHMARK Competencia.
-- BENCHMARK SERVICIOS.
-
 [Benchmarks en Excel](https://docs.google.com/spreadsheets/d/1ULUEUPA4drl1JHAzyJt6YSb4sNF4c7fk7JEqYCzJD2c/edit?usp=sharing)
+
+##### BENCHMARK Competencia.
+
+En la comparativa de servicios de los competidores los valores a mapear fueron:
+
+* Lema.
+* Si cuentan con tienda en línea.
+* Promesa de ahorro en cartuchos remanufacturados.
+* Tipos de pago que ofrecen.
+* Envíos sin costo.
+* Costo de envío local y foráneo.
+* Tipo de entrega.
+* Si ofrecen entrega Express.
+* Devoluciones.
+* Garantía.
+* Atención a clientes personalizada.
+* Certificaciones obtenidas.
+
+**Conclusiones:**
+
+* Entre los competidores más fuertes observamos que cuentan con tienda en línea lo que hace que sean rivales aún más grandes, además de tener presencia en distintas ciudades ofrecen envío gratuito sin mínimo de compra en CDMX o gratis al recogerlo directamente en tienda, La mayoría de los competidores analizados manejan envío a través de terceros y un servicio express no mayor a 3 hrs. o entre 24 y 48 hrs. con precios que rondan entre los $87 y $120, todos los competidores comparados ofrecen atención a clientes personalizada y sólo uno de ellos muestra una certificación ISO 9001:14001 en su sitio web.
+
+* En conclusión, aunque consideramos que la atención personalizada y entrega gratuita en 24 hrs era lo que hacía especial a nuestro cliente, con este análisis pudimos observar que la mayoría de los competidores ofrecen cosas muy similares por lo cual nuestra estrategia sería destacarlos por la calidad de su producto, abordando la temática de cartuchos remanufacturados de una forma ecológica, con esto disminuiría la carga negativa hacia el uso de cartuchos remanufacturados     logrando así un diferenciador frente a la competencia.
+
+
+##### BENCHMARK SERVICIOS.
 
 Con respecto a la comparativa de servicios observamos detalles de funcionamiento de tres plataformas que son líderes dentro del ramo:
 
