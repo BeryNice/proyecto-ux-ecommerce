@@ -224,3 +224,50 @@ Después de esta entrevista con el cliente y su socia (vendedora) pudimos obtene
 * Las vendedoras son agentes activos dentro del flujo de la venta.
 * La experiencia del usuario es muy placentera ya que es un cliente asiduo pero muy dolorosa cuando es un cliente nuevo pues está lleno de incertidumbres.
 * La mayoría de los procesos son OFF Line.
+
+### Tercera entrevista al cliente
+
+Realizamos una tercera entrevista con el cliente para disipar dudas concretas sobre los procesos que manejan, por ejemplo: ¿qué pasa después de mandar la carta presentación? ¿Se comunican nuevamente con clientes que rechazan de primera instancia? ¿Cómo se hacen paso por paso la entrega del producto?
+
+#### Insights
+
+* Tienen un servicio de ENTREGA EXPRESS con un costo muy económico.
+* No han podido soltar a un tercero la entrega pues no han encontrado un proveedor confiable.
+* La calidad de la página y la falta de estrategia de medios digitales son resultado de ignorar cómo hacer uso de estos medios.
+* Tienen chat en la página pero no lo atienden de forma constante.
+* Hubo una situación con el whatsapp y una vendedora que devino en la pérdida de un cliente importante.
+* Whatsapp se presta al coqueteo.
+* Confían mucho en la calidad de su producto.
+* Les gustaría surtir clientes intermediarios.
+* Tienen muy bien planificada su estrategia de venta OFF Line con respecto a la temporalidad de las llamadas de las vendedoras a sus usuarios.
+* Establecen patrones de compra con respecto a la facturación.
+
+### BENCHMARK
+
+- BENCHMARK Competencia.
+- BENCHMARK SERVICIOS.
+
+[Benchmarks en Excel](https://docs.google.com/spreadsheets/d/1ULUEUPA4drl1JHAzyJt6YSb4sNF4c7fk7JEqYCzJD2c/edit?usp=sharing)
+
+Con respecto a la comparativa de servicios observamos detalles de funcionamiento de tres plataformas que son líderes dentro del ramo:
+
+**1. Pedidos.com**
+
+**2. TANDEM**
+
+**3. Office Depot**
+
+Los valores a mapear fueron:
+
+1. Tipo de pago.
+2. Tipo de envío.
+3. Costo del envío.
+4.  Si cuentan con entrega express.
+5.  Si cuentan con el producto Toner.
+6.  Qué tipo de atención a clientes ofrecen.
+
+### Conclusiones
+
+* Las tres empresas son enormes dentro de su ramo y por ello tienen la capacidad de dar un servicio barato y envío gratis, y atención a clientes inmediata mediante chats, las tres opciones mapeadas cuentan con un catálogo inmenso de productos y en su mayoría es el cliente quien tiene que hacer las gestiones, sin dejar que eso le quite lo eficiente o lo conveniente a su servicio.
+
+* En conclusión, aunque no podemos competir en cuestión a volumen con estas tiendas, nuestro cliente se distingue por su producto económico y por adaptarse a las necesidades de sus usuarios, quizás no puedan ser como Office Depot todavía pero si pueden quitarle algunos clientes.
