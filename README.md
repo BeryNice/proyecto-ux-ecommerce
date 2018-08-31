@@ -93,6 +93,7 @@ Servicios:
 * Proporcionar a los prospectos y clientes la información de servicios y productos adicionales a los cartuchos remanufacturados.
 * Compartir la experiencia del uso de cartuchos remanufacturados de clientes actuales a través de testimoniales.
 
+[Modelo de Negocio](https://docs.google.com/document/d/1ZpI653SXqLEvcTGCAWiWFU43xgc5bh1BFQxQF08MD5c/edit?usp=sharing)
 
 ## Descubrimiento e investigación
 ### Primera Entrevista con el Cliente
@@ -294,3 +295,42 @@ Los valores a mapear fueron:
 * Las tres empresas son enormes dentro de su ramo y por ello tienen la capacidad de dar un servicio barato y envío gratis, y atención a clientes inmediata mediante chats, las tres opciones mapeadas cuentan con un catálogo inmenso de productos y en su mayoría es el cliente quien tiene que hacer las gestiones, sin dejar que eso le quite lo eficiente o lo conveniente a su servicio.
 
 * En conclusión, aunque no podemos competir en cuestión a volumen con estas tiendas, nuestro cliente se distingue por su producto económico y por adaptarse a las necesidades de sus usuarios, quizás no puedan ser como Office Depot todavía pero si pueden quitarle algunos clientes.
+
+
+## Arquitectura de la Información.
+
+En el proceso de generar la organización no sólo del sitio sino también del flujo del servicio nos dimos a la tarea de utilizar recursos como card sorting, investigación heurística y benchmark para solucionar las dificultades en su sitio web de nuestro cliente.
+
+### Problemas detectados en el sitio de GIC Tóner.
+
+* La categorización de la página actual de **GIC Tóner** es muy confusa ya que repite temas en distintas ubicaciones de la página con contenido distinto, esto da una sensación de angustia y de falta de profesionalismo, además que es difícil encontrar la información que se necesita.
+
+* Se percibe como un template genérico de Wordpress.
+* La página no es https y te anuncia que no es segura.
+* Se muestra como una tienda en línea pero no tiene ninguna función real de tienda.
+* El chat es poco atendido.
+
+
+### CARDSORTING
+**Insights**
+
+Con todas las pruebas que hicimos con nuestros usuarios nos dimos cuenta que en realidad ninguno tuvo como una categorización que revelara un patrón claro pero, si nos dieron parámetros de agrupación esenciales:
+
+* Agrupación de todo lo que tiene que ver con la empresa en uno o dos niveles pero junto.
+* Agrupación de todo lo que tiene que ver con productos y servicios en una misma categoría o dos distintas, si había una identificación de los elementos.
+* La tarjeta donde el cliente mostraba su misión, visión y valores llamada POLVO SOMOS les parecía incomprensible.
+* Hay que centralizar la información de los productos.
+* Garantía GIC Tóner puede ser un valor esencial de la marca.
+* Se mencionó la necesidad de una facturación sencilla.
+
+
+### Proceso de Sketching
+[Arquitectura del Sitio](https://docs.google.com/spreadsheets/d/1bat1mqbvj5UUfIw6Uy_ITcPavLg-YFJCTn_Shw5aLU8/edit?usp=sharing)
+
+Como parte de la estrategia para captación de clientes, decidimos crear una landing page a la cual se le pueda invertir en Google Ads. Esta Landing Page cuenta con las propuestas de valor más importantes de la marca.
+
+**Sketch de landing page. **
+
+Como resultado del experimento de CardSorting pudimos reorganizar los contenidos de la página a lo más importante, dándole también una unidad estética entre la landing page, el sitio web y la carta presentación.
+
+**Sketch de reestructuración del sitio.**
