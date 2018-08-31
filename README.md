@@ -26,7 +26,7 @@ Hay que buscar llegar al testeo y la implementación, pero no sin comprender el 
 
 También nos apoyamos en un sprint planning donde diariamente planeábamos y reflejábamos nuestros avances, temas bloqueados y estrategias a seguir para continuar con nuestros esfuerzos de entendimiento del problema.
 
-![SpringPlanning](images/sprint-plannin.jpg)
+![SpringPlanning](images/sprint-planning.jpg)
 
 ## Entendimiento del problema
 
