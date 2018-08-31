@@ -369,6 +369,8 @@ De esta primer prueba con prototipo clickeable concluimos que la organización v
 
 En cuanto a la sección de servicios nuestro usuario indicó que consideraba que los servicios de entrega gratuita y express no corresponden propiamente a la sección de servicios y que sólo se deberían mantener ahí el servicio a mantenimiento preventivo de impresoras y servicio de papelería.
 
+[Video User Testing 1](https://www.useloom.com/share/f4528e882ef74db0bc710695c5e678ba)
+
 
 ### PRUEBA 2
 
@@ -376,7 +378,7 @@ En cuanto a la sección de servicios nuestro usuario indicó que consideraba que
 En nuestra segunda prueba realizada, nuestro usuario indicó que el enfoque de cartuchos ecológicos renovados era muy positivo frente a cartuchos remanufacturados y que además de ahorrar en la compra de insumos de impresión se hacía consciente de la importancia de reciclar, siendo precisamente eso lo que le llamaba la atención además de enterarse que en cualquier compra recibía su pedido de manera gratuita en 24 horas después de su compra y aún mejor que la entrega express fuera en un periodo de 3 horas. También indicó que la experiencia de no ser una tienda en línea pero poder ver el precio y el comparativo del costo del cartucho original le agradaba mucho, y que se sentía cómoda proporcionando su nombre y número telefónico para que una asesora de ventas la contactara y poder así llevar a cabo su compra, pues ya ha tenido experiencias anteriores con metodologías similares y habían sido muy positivas, sin embargo sugirió la idea de
 Implementar un botón que active el chat para contactar a la asesora de una manera más rápida.
 
-
+[Video User testing 2](https://www.useloom.com/share/016b5509eaa34e95a8d63492abcd6376)
 
 
 ## Propuesta de solución
@@ -395,4 +397,5 @@ Uno de los principales temores de los usuarios es que al utilizar cartuchos rema
 Por ello es muy importante tratar de cambiar el enfoque que tienen los usuarios acerca de los cartuchos remanufacturados a través de palabras que agreguen un valor positivo como renovados y ecológicos, ya que finalmente estas dos palabras definen en realidad a este tipo de producto.
 
 ![Prototipo Figma](images/prototipo.jpg)
-[Prototipo Figma](https://www.figma.com/proto/rCFanWCefPPivyY8UkXbQf/Prototipo-Website-GIC-T%C3%B3ner-(Copy)?scaling=min-zoom)
+[Prototipo Figma](https://www.figma.com/proto/rCFanWCefPPivyY8UkXbQf/Prototipo-Website-GIC-T%C3%B3ner-Copy?scaling=min-zoom)
+[Landing](https://www.figma.com/proto/O3TWQnXO47hnyEFfWYVyrhnV/Landing-Page?scaling=min-zoom)
