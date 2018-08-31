@@ -26,7 +26,7 @@ Hay que buscar llegar al testeo y la implementación, pero no sin comprender el 
 
 También nos apoyamos en un sprint planning donde diariamente planeábamos y reflejábamos nuestros avances, temas bloqueados y estrategias a seguir para continuar con nuestros esfuerzos de entendimiento del problema.
 
-![SpringPlanning]()
+![SpringPlanning](images/sprint-plannin.jpg)
 
 ## Entendimiento del problema
 
@@ -209,7 +209,7 @@ Para la creación de nuestro User Persona comenzamos con una lluvia de ideas bas
 #### User Persona
 La persona la construimos con base a las entrevistas con nuestro cliente y entrevistas con usuarios potenciales. Cabe destacar que gracias al contacto tan directo que genera el servicio a cliente de GIC Tóner con el usuario,  nos pudieron proporcionar gran cantidad de detalles y datos muy coherentes y precisos sobre cómo se comportan y cuáles son sus paint points.
 
-![User-persona](images/UserPersona.jpg)
+![User-persona](images/Persona-1-Compras.jpg)
 
 
 Después de esta entrevista con el cliente y su socia (vendedora) pudimos obtener datos concretos sobre el proceso de compra, los dolores tanto de las vendedoras como de los usuarios no sólo en cuanto al servicio de GIC Tóner, sino también en cuanto a sus experiencias negativas previas con otros proveedores.
@@ -297,6 +297,17 @@ Los valores a mapear fueron:
 * En conclusión, aunque no podemos competir en cuestión a volumen con estas tiendas, nuestro cliente se distingue por su producto económico y por adaptarse a las necesidades de sus usuarios, quizás no puedan ser como Office Depot todavía pero si pueden quitarle algunos clientes.
 
 
+### User Personas Secundarias
+
+Gracias a las entrevistas y a la información proporcionada por nuestra cliente y entrevistas con las vendedoras y usuarios potenciales nos dimos cuenta que nuestras user personas secundarias son:
+
+![User Persona Vendedora](images/Persona-2-Ventas.jpg)
+![Emphaty Map](images/empaty-map-02.png)
+
+![User Persona Intermediario](images/Persona-3-Intermediario.jpg)
+![Emphaty Map](images/empaty-map-03.png)
+
+
 ## Arquitectura de la Información.
 
 En el proceso de generar la organización no sólo del sitio sino también del flujo del servicio nos dimos a la tarea de utilizar recursos como card sorting, investigación heurística y benchmark para solucionar las dificultades en su sitio web de nuestro cliente.
@@ -329,8 +340,55 @@ Con todas las pruebas que hicimos con nuestros usuarios nos dimos cuenta que en 
 
 Como parte de la estrategia para captación de clientes, decidimos crear una landing page a la cual se le pueda invertir en Google Ads. Esta Landing Page cuenta con las propuestas de valor más importantes de la marca.
 
-**Sketch de landing page. **
+**Sketch de landing page.**
 
 Como resultado del experimento de CardSorting pudimos reorganizar los contenidos de la página a lo más importante, dándole también una unidad estética entre la landing page, el sitio web y la carta presentación.
 
 **Sketch de reestructuración del sitio.**
+
+### Wireframes
+
+Para la parte de Testeo desarrollamos los Wireframes con funcionalidad casi completa de todo el sitio web, esto nos permitió testear con usuarios sobre cómo percibían el flujo y el contenido de la página lo que nos permitió hacer mejoras para el prototipo final.
+
+Wireframes de sitio en B&N
+[Wireframe Figma](https://www.figma.com/proto/UjNXu0xudQWy9Zt9UHbhIU1Y/Prototipo-Website-GIC-T%C3%B3ner?node-id=0%3A1&scaling=min-zoom)
+
+### Flow chart del sitio.
+![Flow chart](images/flow-chart-comentado.png)
+
+## PRUEBAS DE USABILIDAD
+
+### PRUEBA 1
+
+**Conclusiones**
+De esta primer prueba con prototipo clickeable concluimos que la organización visual del contenido es agradable para los usuarios, en cuanto al flujo de usuario surgieron algunas observaciones de funcionalidad en puntos específicos en donde el usuario esperaba de manera intuitiva un flujo de compra inmediata ya que al entrar a la vista de detalle del producto esperaba encontrar un botón  de compra y no un formulario solicitando datos para que una asesora de ventas lo contactara inmediatamente vía telefónica.
+
+En cuanto a la sección de servicios nuestro usuario indicó que consideraba que los servicios de entrega gratuita y express no corresponden propiamente a la sección de servicios y que sólo se deberían mantener ahí el servicio a mantenimiento preventivo de impresoras y servicio de papelería.
+
+
+### PRUEBA 2
+
+**Conclusiones**
+En nuestra segunda prueba realizada, nuestro usuario indicó que el enfoque de cartuchos ecológicos renovados era muy positivo frente a cartuchos remanufacturados y que además de ahorrar en la compra de insumos de impresión se hacía consciente de la importancia de reciclar, siendo precisamente eso lo que le llamaba la atención además de enterarse que en cualquier compra recibía su pedido de manera gratuita en 24 horas después de su compra y aún mejor que la entrega express fuera en un periodo de 3 horas. También indicó que la experiencia de no ser una tienda en línea pero poder ver el precio y el comparativo del costo del cartucho original le agradaba mucho, y que se sentía cómoda proporcionando su nombre y número telefónico para que una asesora de ventas la contactara y poder así llevar a cabo su compra, pues ya ha tenido experiencias anteriores con metodologías similares y habían sido muy positivas, sin embargo sugirió la idea de
+Implementar un botón que active el chat para contactar a la asesora de una manera más rápida.
+
+
+
+
+## Propuesta de solución
+La propuesta que generamos para la empresa GIC Tóner busca atacar 3 dolencias principales:
+
+
+**Generar confianza**
+GIC Tóner es una muy buena experiencia para quien ya los conoce, pero es muy difícil para un cliente nuevo, confiar de la nada en una llamada telefónica o un mail que no ha requerido, es por ello que con base a una estandarización de la imagen, un speech más conciso y mayor claridad sobre sus procesos los clientes nuevos tienen mayor certeza sobre de qué se trata el negocio y a quien le está mandando sus datos.
+
+**Unidad**
+Al tener un mensaje con un tono y manera estandarizado generas una sensación de unidad que le permite al usuario percibir que son una empresa seria,
+
+**Desestigmatizar**
+Uno de los principales temores de los usuarios es que al utilizar cartuchos remanufacturados sus equipos de impresión se dañen, que no duren lo suficiente como un cartucho original o que las impresiones sean de baja calidad, además de que mucha gente confunde el término remanufactura con recarga o relleno, llegándolos a utilizar como sinónimos.
+
+Por ello es muy importante tratar de cambiar el enfoque que tienen los usuarios acerca de los cartuchos remanufacturados a través de palabras que agreguen un valor positivo como renovados y ecológicos, ya que finalmente estas dos palabras definen en realidad a este tipo de producto.
+
+![Prototipo Figma](images/prototipo.jpg)
+[Prototipo Figma](https://www.figma.com/proto/rCFanWCefPPivyY8UkXbQf/Prototipo-Website-GIC-T%C3%B3ner-(Copy)?scaling=min-zoom)
