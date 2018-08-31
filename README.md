@@ -92,3 +92,12 @@ Servicios:
 * Proporcionar a los clientes y prospectos información sobre el uso confiable de cartuchos remanufacturados.
 * Proporcionar a los prospectos y clientes la información de servicios y productos adicionales a los cartuchos remanufacturados.
 * Compartir la experiencia del uso de cartuchos remanufacturados de clientes actuales a través de testimoniales.
+
+## Descubrimiento e investigación
+### Primera Entrevista con el Cliente
+
+En esta primera entrevista buscamos conocer más a detalle cómo es la estructura de la empresa, sus productos y sus procesos, para ello desarrollamos un protocolo que nos dio una guía de lo que necesitamos saber para poder comenzar el procesos de ubicar las dolencias y detectar problemas.
+
+[Guía para entrevista cliente](https://drive.google.com/open?id=1BBiWblK_G-skLgLjwi8Y0DMxcKxy6ngVk88NWFeVfoQ)
+
+[Transcipción Primera Entrevista Cliente](https://drive.google.com/open?id=1mlTGSyEpSw-VhyUcgnF4gmHe79sw2E5XUHoA7j__q9k)
