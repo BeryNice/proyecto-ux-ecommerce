@@ -31,3 +31,64 @@ También nos apoyamos en un sprint planning donde diariamente planeábamos y ref
 ##Entendimiento del problema
 
 ###Productos y Servicios que ofrece GIC Tóner.
+
+
+GIC Tóner se especializa en la venta de tóner remanufacturado 100% garantizado con el cual sus clientes tienen un ahorro de hasta el 60% en comparación con un cartucho original.
+
+Otros productos que ofrece a sus clientes :
+
+* Cartuchos de tinta y tóner Compatibles.
+* Consumibles Originales.
+* Artículos de papelería.
+* Mobiliario para oficinas.
+
+Servicios:
+
+* Servicio de Envío a Domicilio totalmente GRATIS.
+* Servicio de Entrega Express con un costo adicional entre $50 y $100.
+* Mantenimiento a impresoras.
+
+
+**Beneficios de usar Tóner Remanufacturado de GIC Toner**
+
+* Economiza utilizando productos de calidad idéntica al consumible original.
+* Rompe paradigmas con productos que no dañan tu impresora.
+* Ayudan al medio ambiente rehusando cartuchos que tardan más de 400 años en biodegradarse.
+
+
+#### PROBLEMÁTICA A RESOLVER
+
+* Atraer a un mayor número de clientes a través de internet.
+* Disminuir el tiempo de búsqueda de nuevos clientes de manera offline y poner todos los esfuerzos en tener una mayor presencia online para llegar a esos clientes.
+* Se cuenta con un sitio web informativo que se actualiza muy poco.
+* Dice tener una tienda en línea pero en realidad sólo es un catálogo digital no actualizado.
+* No se tienen publicados todos los tipos de productos y servicios que ofrecen.
+* Aunque han recibido mensajes a través del chat y se les da seguimiento no ha sido el adecuado, haciendo que se pierdan clientes potenciales.
+* Ciertos eslabones de la cadena de servicio generan desconfianza.
+* No cuenta con los certificados de seguridad requeridos.
+
+#### OBJETIVOS DE NEGOCIO
+
+* Desestigmatizar el uso de cartuchos remanufacturados.
+* Reducir el costo de tiempo y dinero en cada esfuerzo por conseguir un nuevo cliente.
+* Atraer nuevos clientes.
+* Generar registro de prospectos solicitando cotización de productos.
+* Dar a conocer la variedad de productos y servicios que ofrece **GIC Tóner.**
+*Tener visibilidad frente a los competidores.
+* Retener a los clientes que ya tiene a través de una comunicación constante por medio de newsletter y/o WhatsApp.
+
+
+#### METAS
+**(analizar qué metas se ajustan a nuestros objetivos)**
+
+* Objetivos de servicio al cliente: Satisfacción, referencias.
+* Objetivos del producto : la difusión de las cualidades de producto.
+* Objetivos de comunicación: comunicación de personalidad de la marca , gestión de la reputación, la gestión de crisis.
+* Objetivos de marketing: la marca, la conciencia , el compromiso , la respuesta , generación líder.
+
+
+#### OBJETIVOS UX
+* Hacer que el servicio al cliente de GIC Tóner se vea reflejado en la propuesta de valor de la empresa.
+* Proporcionar a los clientes y prospectos información sobre el uso confiable de cartuchos remanufacturados.
+* Proporcionar a los prospectos y clientes la información de servicios y productos adicionales a los cartuchos remanufacturados.
+* Compartir la experiencia del uso de cartuchos remanufacturados de clientes actuales a través de testimoniales.
