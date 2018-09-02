@@ -272,7 +272,11 @@ En la comparativa de servicios de los competidores los valores a mapear fueron:
 
 Por la parte visual notamos que la mayoría de los sitios web que comparamos tenían una identidad en la que implementaban los colores CMYK o variantes para hacer referencia al giro de impresión o una identidad multicolor, siendo el azul el color primario utilizado mayormente en su interfaz para resaltar ciertos elementos.
 
-* En conclusión, aunque consideramos que la atención personalizada y entrega gratuita en 24 hrs era lo que hacía especial a nuestro cliente, con este análisis pudimos observar que la mayoría de los competidores ofrecen cosas muy similares por lo cual nuestra estrategia sería destacarlos por la calidad de su producto, abordando la temática de cartuchos remanufacturados de una forma ecológica, con esto disminuiría la carga negativa hacia el uso de cartuchos remanufacturados, en cuanto a la parte visual decidimos destacar a GIC Tóner por el color, implementando una combinación de tonos verde y azul claro logrando así un diferenciador frente a la competencia.
+* En conclusión, aunque consideramos que la atención personalizada y entrega gratuita en 24 hrs era lo que hacía especial a nuestro cliente, con este análisis pudimos observar que la mayoría de los competidores ofrecen cosas muy similares por lo cual nuestra estrategia sería destacarlos por la calidad de su producto, abordando la temática de cartuchos remanufacturados de una forma ecológica, con esto disminuiría la carga negativa hacia el uso de cartuchos remanufacturados.
+
+En cuanto a la parte visual decidimos destacar a GIC Tóner por el color, implementando una combinación de tonos verde y azul claro. Si todas las marcas de la competencia utilizan colores similiares tenemos que posicionar a GIC tóner con una combinación de colores que no esté en uso.
+
+Con estas dos estrategias logramos generar un diferencial a nivel de imagen y proyección frente a la competencia.
 
 
 ##### BENCHMARK SERVICIOS.
