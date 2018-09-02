@@ -32,8 +32,6 @@ También nos apoyamos en un sprint planning donde diariamente planeábamos y ref
 
 ### Productos y Servicios que ofrece GIC Tóner.
 
-![GIC Toner Antes](images/GICToner_Antes.png)
-
 GIC Tóner se especializa en la venta de tóner remanufacturado 100% garantizado con el cual sus clientes tienen un ahorro de hasta el 60% en comparación con un cartucho original.
 
 Otros productos que ofrece a sus clientes :
@@ -49,6 +47,7 @@ Servicios:
 * Servicio de Entrega Express con un costo adicional entre $50 y $100.
 * Mantenimiento a impresoras.
 
+![GIC Toner Antes](images/GICToner_Antes.png)
 
 **Beneficios de usar Tóner Remanufacturado de GIC Toner**
 
