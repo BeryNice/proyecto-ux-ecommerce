@@ -83,7 +83,7 @@ Servicios:
 
 * Objetivos de servicio al cliente: Satisfacción, referencias.
 * Objetivos del producto : la difusión de las cualidades de producto.
-* Objetivos de comunicación: comunicación de personalidad de la marca , gestión de la reputación, la gestión de crisis.
+* Objetivos de comunicación: comunicación de personalidad de la marca, gestión de la reputación, la gestión de crisis.
 * Objetivos de marketing: la marca, la conciencia , el compromiso , la respuesta , generación líder.
 
 
@@ -92,6 +92,7 @@ Servicios:
 * Proporcionar a los clientes y prospectos información sobre el uso confiable de cartuchos remanufacturados.
 * Proporcionar a los prospectos y clientes la información de servicios y productos adicionales a los cartuchos remanufacturados.
 * Compartir la experiencia del uso de cartuchos remanufacturados de clientes actuales a través de testimoniales.
+* Migrar la experiencia offline de atención al cliente a online para brindar la misma atención personalizada a los usuarios nuevos
 
 [Modelo de Negocio](https://docs.google.com/document/d/1ZpI653SXqLEvcTGCAWiWFU43xgc5bh1BFQxQF08MD5c/edit?usp=sharing)
 
@@ -263,12 +264,15 @@ En la comparativa de servicios de los competidores los valores a mapear fueron:
 * Garantía.
 * Atención a clientes personalizada.
 * Certificaciones obtenidas.
+* Colores utilizados
 
 **Conclusiones:**
 
 * Entre los competidores más fuertes observamos que cuentan con tienda en línea lo que hace que sean rivales aún más grandes, además de tener presencia en distintas ciudades ofrecen envío gratuito sin mínimo de compra en CDMX o gratis al recogerlo directamente en tienda, La mayoría de los competidores analizados manejan envío a través de terceros y un servicio express no mayor a 3 hrs. o entre 24 y 48 hrs. con precios que rondan entre los $87 y $120, todos los competidores comparados ofrecen atención a clientes personalizada y sólo uno de ellos muestra una certificación ISO 9001:14001 en su sitio web.
 
-* En conclusión, aunque consideramos que la atención personalizada y entrega gratuita en 24 hrs era lo que hacía especial a nuestro cliente, con este análisis pudimos observar que la mayoría de los competidores ofrecen cosas muy similares por lo cual nuestra estrategia sería destacarlos por la calidad de su producto, abordando la temática de cartuchos remanufacturados de una forma ecológica, con esto disminuiría la carga negativa hacia el uso de cartuchos remanufacturados     logrando así un diferenciador frente a la competencia.
+Por la parte visual notamos que la mayoría de los sitios web que comparamos tenían una identidad en la que implementaban los colores CMYK o variantes para hacer referencia al giro de impresión o una identidad multicolor, siendo el azul el color primario utilizado mayormente en su interfaz para resaltar ciertos elementos.
+
+* En conclusión, aunque consideramos que la atención personalizada y entrega gratuita en 24 hrs era lo que hacía especial a nuestro cliente, con este análisis pudimos observar que la mayoría de los competidores ofrecen cosas muy similares por lo cual nuestra estrategia sería destacarlos por la calidad de su producto, abordando la temática de cartuchos remanufacturados de una forma ecológica, con esto disminuiría la carga negativa hacia el uso de cartuchos remanufacturados, en cuanto a la parte visual decidimos destacar a GIC Tóner por el color, implementando una combinación de tonos verde y azul claro logrando así un diferenciador frente a la competencia.
 
 
 ##### BENCHMARK SERVICIOS.
@@ -386,10 +390,12 @@ La propuesta que generamos para la empresa GIC Tóner busca atacar 3 dolencias p
 
 
 **Generar confianza**
-GIC Tóner es una muy buena experiencia para quien ya los conoce, pero es muy difícil para un cliente nuevo, confiar de la nada en una llamada telefónica o un mail que no ha requerido, es por ello que con base a una estandarización de la imagen, un speech más conciso y mayor claridad sobre sus procesos los clientes nuevos tienen mayor certeza sobre de qué se trata el negocio y a quien le está mandando sus datos.
+GIC Tóner es una muy buena experiencia para quien ya los conoce, pero es muy difícil para un cliente nuevo, confiar de la nada en una llamada telefónica o un mail que no ha requerido, es por ello que con base a una estandarización de la imagen, un speech más conciso y mayor claridad sobre sus procesos los clientes nuevos tienen mayor certeza sobre de qué se trata el negocio y a quien le está mandando sus datos. 
+
+Además la intensión de trasladar el trato que dan a sus clientes de manera offline a online para crear un lazo humano entre GIC Tóner con las personas, que genere confianza y permita construir experiencias que los hagan recordar no lo que dice o hace GIC Tóner sino de como los hizo sentirse.
 
 **Unidad**
-Al tener un mensaje con un tono y manera estandarizado generas una sensación de unidad que le permite al usuario percibir que son una empresa seria,
+Al tener un mensaje con un tono y manera estandarizado generas una sensación de unidad que le permite al usuario percibir que son una empresa seria.
 
 **Desestigmatizar**
 Uno de los principales temores de los usuarios es que al utilizar cartuchos remanufacturados sus equipos de impresión se dañen, que no duren lo suficiente como un cartucho original o que las impresiones sean de baja calidad, además de que mucha gente confunde el término remanufactura con recarga o relleno, llegándolos a utilizar como sinónimos.
