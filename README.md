@@ -408,4 +408,7 @@ Por ello es muy importante tratar de cambiar el enfoque que tienen los usuarios 
 
 ![Prototipo Figma](images/prototipo.jpg)
 [Prototipo Figma](https://www.figma.com/proto/rCFanWCefPPivyY8UkXbQf/Prototipo-Website-GIC-T%C3%B3ner-Copy?scaling=min-zoom)
+
 [Landing](https://www.figma.com/proto/O3TWQnXO47hnyEFfWYVyrhnV/Landing-Page?scaling=min-zoom)
+
+[Carta Presentación](https://www.figma.com/proto/Bc1OFhKE7vySu3ksiPsw2l/Carta-Presentaci%C3%B3n?node-id=85%3A2&scaling=scale-down-width)
