@@ -233,6 +233,7 @@ Después de esta entrevista con el cliente y su socia (vendedora) pudimos obtene
 * La experiencia del usuario es muy placentera ya que es un cliente asiduo pero muy dolorosa cuando es un cliente nuevo pues está lleno de incertidumbres.
 * La mayoría de los procesos son OFF Line.
 
+_________________________________________________________________________
 
 ### Tercera entrevista al cliente
 
@@ -284,6 +285,8 @@ En cuanto a la parte visual decidimos destacar a GIC Tóner por el color, implem
 
 Con estas dos estrategias logramos generar un diferencial a nivel de imagen y proyección frente a la competencia.
 
+![Benchmark competidores](images/benchmark-competidores.png)
+
 
 ##### BENCHMARK SERVICIOS.
 
@@ -309,6 +312,8 @@ Los valores a mapear fueron:
 * Las tres empresas son enormes dentro de su ramo y por ello tienen la capacidad de dar un servicio barato y envío gratis, y atención a clientes inmediata mediante chats, las tres opciones mapeadas cuentan con un catálogo inmenso de productos y en su mayoría es el cliente quien tiene que hacer las gestiones, sin dejar que eso le quite lo eficiente o lo conveniente a su servicio.
 
 * En conclusión, aunque no podemos competir en cuestión a volumen con estas tiendas, nuestro cliente se distingue por su producto económico y por adaptarse a las necesidades de sus usuarios, quizás no puedan ser como Office Depot todavía pero si pueden quitarle algunos clientes.
+
+![Benchmark servicios](images/benchmarck-servicios.png)
 
 
 ### User Personas Secundarias
