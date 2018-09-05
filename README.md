@@ -363,10 +363,13 @@ Con todas las pruebas que hicimos con nuestros usuarios nos dimos cuenta que en 
 * Se mencionó la necesidad de una facturación sencilla.
 
 ![Cardsorting Usuario1](images/card-sorting-usuario1.jpg)
-![Cardsorting Usuario4](images/card-sorting-usuario4.jpg)
-![Cardsorting Usuario5](images/card-sorting-usuario5.jpg)
+
+[Cardsorting Usuario4](images/card-sorting-usuario4.jpg)
+
+[Cardsorting Usuario5](images/card-sorting-usuario5.jpg)
 
 [Cardsorting Usuario3](images/card-sorting-usuario3.jpg)
+
 [Cardsorting Usuario2](images/card-sorting-usuario2.jpg)
 
 
@@ -426,19 +429,27 @@ La propuesta que generamos para la empresa GIC Tóner busca atacar 3 dolencias p
 **Unidad**
 Al tener un mensaje con un tono y manera estandarizado generas una sensación de unidad que le permite al usuario percibir que son una empresa seria.
 
+![Sitio Web](images/sitioweb.jpg)
+
+El rediseño de la **Carta presentación** acorde a la imagen de la página web será un apoyo para que las vendedoras puedan concretar ventas pues resuelve el problema de generar confianza al usuario al visualizar una relación entre esta carta, la land page y el sitio web.
+
+![Carta Presentación](images/cartapropuesta.jpg)
+
+[Landing](https://www.figma.com/proto/O3TWQnXO47hnyEFfWYVyrhnV/Landing-Page?scaling=min-zoom)
+
 **Desestigmatizar**
 Uno de los principales temores de los usuarios es que al utilizar cartuchos remanufacturados sus equipos de impresión se dañen, que no duren lo suficiente como un cartucho original o que las impresiones sean de baja calidad, además de que mucha gente confunde el término remanufactura con recarga o relleno, llegándolos a utilizar como sinónimos.
 
 Por ello es muy importante tratar de cambiar el enfoque que tienen los usuarios acerca de los cartuchos remanufacturados a través de palabras que agreguen un valor positivo como renovados y ecológicos, ya que finalmente estas dos palabras definen en realidad a este tipo de producto.
 
+![Cartuchos Ecológicos](images/cartuchosecologicos.png)
+
+
 **Generar confianza**
-GIC Tóner es una muy buena experiencia para quien ya los conoce, pero es muy difícil para un cliente nuevo, confiar de la nada en una llamada telefónica o un mail que no ha requerido, es por ello que con base a una estandarización de la imagen, un speech más conciso y mayor claridad sobre sus procesos los clientes nuevos tienen mayor certeza sobre de qué se trata el negocio y a quien le está mandando sus datos.
+GIC Tóner es una muy buena experiencia para quien ya los conoce, pero es muy difícil para un cliente nuevo, confiar de la nada en una llamada telefónica o un mail que no ha requerido. Es por ello que con base a una **estandarización de la imagen, un speech más conciso y mayor claridad sobre sus procesos** los clientes nuevos tienen mayor certeza sobre de qué se trata el negocio y a quien le está mandando sus datos.
 
 Además la intensión de trasladar el trato que dan a sus clientes de manera offline a online para crear un lazo humano entre GIC Tóner con las personas, que genere confianza y permita construir experiencias que los hagan recordar no lo que dice o hace GIC Tóner sino de como los hizo sentirse.
 
-![Prototipo Figma](images/prototipo.jpg)
 [Prototipo Figma](https://www.figma.com/proto/rCFanWCefPPivyY8UkXbQf/Prototipo-Website-GIC-T%C3%B3ner-Copy?scaling=min-zoom)
-
-[Landing](https://www.figma.com/proto/O3TWQnXO47hnyEFfWYVyrhnV/Landing-Page?scaling=min-zoom)
 
 [Carta Presentación](https://www.figma.com/proto/Bc1OFhKE7vySu3ksiPsw2l/Carta-Presentaci%C3%B3n?node-id=85%3A2&scaling=scale-down-width)
