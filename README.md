@@ -363,9 +363,8 @@ Con todas las pruebas que hicimos con nuestros usuarios nos dimos cuenta que en 
 * Se mencionó la necesidad de una facturación sencilla.
 
 ![Cardsorting Usuario1](images/card-sorting-usuario1.jpg)
-![Cardsorting Usuario4](images/card-sorting-usuario4.jpg)
-![Cardsorting Usuario5](images/card-sorting-usuario5.jpg)
-
+[Cardsorting Usuario4](images/card-sorting-usuario4.jpg)
+[Cardsorting Usuario5](images/card-sorting-usuario5.jpg)
 [Cardsorting Usuario3](images/card-sorting-usuario3.jpg)
 [Cardsorting Usuario2](images/card-sorting-usuario2.jpg)
 
@@ -425,6 +424,10 @@ La propuesta que generamos para la empresa GIC Tóner busca atacar 3 dolencias p
 
 **Unidad**
 Al tener un mensaje con un tono y manera estandarizado generas una sensación de unidad que le permite al usuario percibir que son una empresa seria.
+
+
+
+
 
 **Desestigmatizar**
 Uno de los principales temores de los usuarios es que al utilizar cartuchos remanufacturados sus equipos de impresión se dañen, que no duren lo suficiente como un cartucho original o que las impresiones sean de baja calidad, además de que mucha gente confunde el término remanufactura con recarga o relleno, llegándolos a utilizar como sinónimos.
