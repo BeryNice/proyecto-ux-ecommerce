@@ -1,4 +1,4 @@
-# E-commerce
+![e-commerce](images/bannerproyecto.jpg)
 
 ## Problema
 
@@ -32,7 +32,6 @@ También nos apoyamos en un sprint planning donde diariamente planeábamos y ref
 
 ### Productos y Servicios que ofrece GIC Tóner.
 
-
 GIC Tóner se especializa en la venta de tóner remanufacturado 100% garantizado con el cual sus clientes tienen un ahorro de hasta el 60% en comparación con un cartucho original.
 
 Otros productos que ofrece a sus clientes :
@@ -48,6 +47,7 @@ Servicios:
 * Servicio de Entrega Express con un costo adicional entre $50 y $100.
 * Mantenimiento a impresoras.
 
+![GIC Toner Antes](images/GICToner_Antes.png)
 
 **Beneficios de usar Tóner Remanufacturado de GIC Toner**
 
@@ -94,7 +94,10 @@ Servicios:
 * Compartir la experiencia del uso de cartuchos remanufacturados de clientes actuales a través de testimoniales.
 * Migrar la experiencia offline de atención al cliente a online para brindar la misma atención personalizada a los usuarios nuevos
 
+![](images/modelo-de-negocio-GIC-TONER.png)
 [Modelo de Negocio](https://docs.google.com/document/d/1ZpI653SXqLEvcTGCAWiWFU43xgc5bh1BFQxQF08MD5c/edit?usp=sharing)
+
+
 
 ## Descubrimiento e investigación
 ### Primera Entrevista con el Cliente
@@ -115,6 +118,9 @@ Duración de la primera grabación: 17 min
 
 
 [Transcipción Segunda Entrevista Cliente](https://drive.google.com/open?id=1zw6u3-rAH1aebbUoBz_Rll9cvTUtdL77Mhwh5sW2qDs)
+
+![Entrevista Cliente](images/entrevista_cliente.jpg)
+
 
 #### Insights entrevista con el cliente
 
@@ -227,6 +233,7 @@ Después de esta entrevista con el cliente y su socia (vendedora) pudimos obtene
 * La experiencia del usuario es muy placentera ya que es un cliente asiduo pero muy dolorosa cuando es un cliente nuevo pues está lleno de incertidumbres.
 * La mayoría de los procesos son OFF Line.
 
+_________________________________________________________________________
 
 ### Tercera entrevista al cliente
 
@@ -248,7 +255,7 @@ Realizamos una tercera entrevista con el cliente para disipar dudas concretas so
 ### BENCHMARK
 [Benchmarks en Excel](https://docs.google.com/spreadsheets/d/1ULUEUPA4drl1JHAzyJt6YSb4sNF4c7fk7JEqYCzJD2c/edit?usp=sharing)
 
-##### BENCHMARK Competencia.
+#### BENCHMARK Competencia.
 
 En la comparativa de servicios de los competidores los valores a mapear fueron:
 
@@ -278,8 +285,10 @@ En cuanto a la parte visual decidimos destacar a GIC Tóner por el color, implem
 
 Con estas dos estrategias logramos generar un diferencial a nivel de imagen y proyección frente a la competencia.
 
+![Benchmark competidores](images/benchmark-competidores.png)
 
-##### BENCHMARK SERVICIOS.
+
+#### BENCHMARK SERVICIOS.
 
 Con respecto a la comparativa de servicios observamos detalles de funcionamiento de tres plataformas que son líderes dentro del ramo:
 
@@ -304,14 +313,19 @@ Los valores a mapear fueron:
 
 * En conclusión, aunque no podemos competir en cuestión a volumen con estas tiendas, nuestro cliente se distingue por su producto económico y por adaptarse a las necesidades de sus usuarios, quizás no puedan ser como Office Depot todavía pero si pueden quitarle algunos clientes.
 
+![Benchmark servicios](images/benchmark-servicios.png)
 
-### User Personas Secundarias
 
-Gracias a las entrevistas y a la información proporcionada por nuestra cliente y entrevistas con las vendedoras y usuarios potenciales nos dimos cuenta que nuestras user personas secundarias son:
+## User Personas Secundarias
 
+Gracias a las entrevistas y a la información proporcionada por nuestra cliente, entrevistas con las vendedoras y usuarios potenciales nos dimos cuenta que nuestras user personas secundarias son:
+
+Las vendedoras son un eslabón esencial en el servicio, ellas son las encargadas de la búsqueda de nuevos clientes y el seguimiento de sus necesidades de insumos o servicios adicionales.
 ![User Persona Vendedora](images/Persona-2-Ventas.jpg)
 ![Emphaty Map](images/empaty-map-02.png)
 
+
+El intermediario es el usuario ideal de nuestro cliente, ya que un sólo usuario de estos genera hasta 10 veces más que un usuario promedio. La meta de nuestro cliente es alcanzar a este tipo de usuario denotando la calidad y garantía de los cartuchos remanufacturados que maneja.
 ![User Persona Intermediario](images/Persona-3-Intermediario.jpg)
 ![Emphaty Map](images/empaty-map-03.png)
 
@@ -322,12 +336,18 @@ En el proceso de generar la organización no sólo del sitio sino también del f
 
 ### Problemas detectados en el sitio de GIC Tóner.
 
+![Simulación de Tienda en Línea](images/tiendasimulada.png)
+
+
+
 * La categorización de la página actual de **GIC Tóner** es muy confusa ya que repite temas en distintas ubicaciones de la página con contenido distinto, esto da una sensación de angustia y de falta de profesionalismo, además que es difícil encontrar la información que se necesita.
 
 * Se percibe como un template genérico de Wordpress.
 * La página no es https y te anuncia que no es segura.
 * Se muestra como una tienda en línea pero no tiene ninguna función real de tienda.
 * El chat es poco atendido.
+
+
 
 
 ### CARDSORTING
@@ -341,6 +361,13 @@ Con todas las pruebas que hicimos con nuestros usuarios nos dimos cuenta que en 
 * Hay que centralizar la información de los productos.
 * Garantía GIC Tóner puede ser un valor esencial de la marca.
 * Se mencionó la necesidad de una facturación sencilla.
+
+![Cardsorting Usuario1](images/card-sorting-usuario1.jpg)
+![Cardsorting Usuario4](images/card-sorting-usuario4.jpg)
+![Cardsorting Usuario5](images/card-sorting-usuario5.jpg)
+
+[Cardsorting Usuario3](images/card-sorting-usuario3.jpg)
+[Cardsorting Usuario2](images/card-sorting-usuario2.jpg)
 
 
 ### Proceso de Sketching
@@ -390,13 +417,11 @@ Implementar un botón que active el chat para contactar a la asesora de una mane
 
 
 ## Propuesta de solución
+
+
+![Solución](images/solucion_intro.png)
 La propuesta que generamos para la empresa GIC Tóner busca atacar 3 dolencias principales:
 
-
-**Generar confianza**
-GIC Tóner es una muy buena experiencia para quien ya los conoce, pero es muy difícil para un cliente nuevo, confiar de la nada en una llamada telefónica o un mail que no ha requerido, es por ello que con base a una estandarización de la imagen, un speech más conciso y mayor claridad sobre sus procesos los clientes nuevos tienen mayor certeza sobre de qué se trata el negocio y a quien le está mandando sus datos. 
-
-Además la intensión de trasladar el trato que dan a sus clientes de manera offline a online para crear un lazo humano entre GIC Tóner con las personas, que genere confianza y permita construir experiencias que los hagan recordar no lo que dice o hace GIC Tóner sino de como los hizo sentirse.
 
 **Unidad**
 Al tener un mensaje con un tono y manera estandarizado generas una sensación de unidad que le permite al usuario percibir que son una empresa seria.
@@ -406,6 +431,14 @@ Uno de los principales temores de los usuarios es que al utilizar cartuchos rema
 
 Por ello es muy importante tratar de cambiar el enfoque que tienen los usuarios acerca de los cartuchos remanufacturados a través de palabras que agreguen un valor positivo como renovados y ecológicos, ya que finalmente estas dos palabras definen en realidad a este tipo de producto.
 
+**Generar confianza**
+GIC Tóner es una muy buena experiencia para quien ya los conoce, pero es muy difícil para un cliente nuevo, confiar de la nada en una llamada telefónica o un mail que no ha requerido, es por ello que con base a una estandarización de la imagen, un speech más conciso y mayor claridad sobre sus procesos los clientes nuevos tienen mayor certeza sobre de qué se trata el negocio y a quien le está mandando sus datos.
+
+Además la intensión de trasladar el trato que dan a sus clientes de manera offline a online para crear un lazo humano entre GIC Tóner con las personas, que genere confianza y permita construir experiencias que los hagan recordar no lo que dice o hace GIC Tóner sino de como los hizo sentirse.
+
 ![Prototipo Figma](images/prototipo.jpg)
 [Prototipo Figma](https://www.figma.com/proto/rCFanWCefPPivyY8UkXbQf/Prototipo-Website-GIC-T%C3%B3ner-Copy?scaling=min-zoom)
+
 [Landing](https://www.figma.com/proto/O3TWQnXO47hnyEFfWYVyrhnV/Landing-Page?scaling=min-zoom)
+
+[Carta Presentación](https://www.figma.com/proto/Bc1OFhKE7vySu3ksiPsw2l/Carta-Presentaci%C3%B3n?node-id=85%3A2&scaling=scale-down-width)
