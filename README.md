@@ -316,13 +316,16 @@ Los valores a mapear fueron:
 ![Benchmark servicios](images/benchmarck-servicios.png)
 
 
-### User Personas Secundarias
+## User Personas Secundarias
 
-Gracias a las entrevistas y a la información proporcionada por nuestra cliente y entrevistas con las vendedoras y usuarios potenciales nos dimos cuenta que nuestras user personas secundarias son:
+Gracias a las entrevistas y a la información proporcionada por nuestra cliente, entrevistas con las vendedoras y usuarios potenciales nos dimos cuenta que nuestras user personas secundarias son:
 
+Las vendedoras son un eslabón esencial en el servicio, ellas son las encargadas de la búsqueda de nuevos clientes y el seguimiento de sus necesidades de insumos o servicios adicionales.
 ![User Persona Vendedora](images/Persona-2-Ventas.jpg)
 ![Emphaty Map](images/empaty-map-02.png)
 
+
+El intermediario es el usuario ideal de nuestro cliente, ya que un sólo usuario de estos genera hasta 10 veces más que un usuario promedio. La meta de nuestro cliente es alcanzar a este tipo de usuario denotando la calidad y garantía de los cartuchos remanufacturados que maneja.
 ![User Persona Intermediario](images/Persona-3-Intermediario.jpg)
 ![Emphaty Map](images/empaty-map-03.png)
 
