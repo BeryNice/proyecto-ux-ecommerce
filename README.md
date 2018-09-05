@@ -1,5 +1,5 @@
 # E-commerce
-
+![e-commerce](image/Título_Proyecto.jpg)
 ## Problema
 
 Las pymes tienen muchos problemas para consolidarse, las unidades de negocio en México viven 7.7 años en promedio de acuerdo con el INEGI, las razones por las que una empresa tenga éxito o desaparezca son multifactoriales: la salud financiera del país donde se desarrollen, la estrategia con la que planteen su dirección de trabajo o si tienen una.
@@ -394,7 +394,7 @@ La propuesta que generamos para la empresa GIC Tóner busca atacar 3 dolencias p
 
 
 **Generar confianza**
-GIC Tóner es una muy buena experiencia para quien ya los conoce, pero es muy difícil para un cliente nuevo, confiar de la nada en una llamada telefónica o un mail que no ha requerido, es por ello que con base a una estandarización de la imagen, un speech más conciso y mayor claridad sobre sus procesos los clientes nuevos tienen mayor certeza sobre de qué se trata el negocio y a quien le está mandando sus datos. 
+GIC Tóner es una muy buena experiencia para quien ya los conoce, pero es muy difícil para un cliente nuevo, confiar de la nada en una llamada telefónica o un mail que no ha requerido, es por ello que con base a una estandarización de la imagen, un speech más conciso y mayor claridad sobre sus procesos los clientes nuevos tienen mayor certeza sobre de qué se trata el negocio y a quien le está mandando sus datos.
 
 Además la intensión de trasladar el trato que dan a sus clientes de manera offline a online para crear un lazo humano entre GIC Tóner con las personas, que genere confianza y permita construir experiencias que los hagan recordar no lo que dice o hace GIC Tóner sino de como los hizo sentirse.
 
