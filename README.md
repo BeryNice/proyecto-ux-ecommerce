@@ -336,6 +336,10 @@ En el proceso de generar la organización no sólo del sitio sino también del f
 
 ### Problemas detectados en el sitio de GIC Tóner.
 
+![Simulación de Tienda en Línea](images/tiendasimulada.png)
+
+
+
 * La categorización de la página actual de **GIC Tóner** es muy confusa ya que repite temas en distintas ubicaciones de la página con contenido distinto, esto da una sensación de angustia y de falta de profesionalismo, además que es difícil encontrar la información que se necesita.
 
 * Se percibe como un template genérico de Wordpress.
@@ -343,7 +347,7 @@ En el proceso de generar la organización no sólo del sitio sino también del f
 * Se muestra como una tienda en línea pero no tiene ninguna función real de tienda.
 * El chat es poco atendido.
 
-![Simulación de Tienda en Línea](images/tiendasimulada.png)
+
 
 
 ### CARDSORTING
@@ -358,7 +362,11 @@ Con todas las pruebas que hicimos con nuestros usuarios nos dimos cuenta que en 
 * Garantía GIC Tóner puede ser un valor esencial de la marca.
 * Se mencionó la necesidad de una facturación sencilla.
 
-![](images/card-sorting-usuario1.jpg) ![](images/card-sorting-usuario2.jpg) ![](images/card-sorting-usuario3.jpg) ![](imagres/card-sorting-usuario4.jpg) ![](images/card-sorting-usuario5.jpg)
+![](images/card-sorting-usuario1.jpg)
+![](images/card-sorting-usuario2.jpg)
+![](images/card-sorting-usuario3.jpg)
+![](images/card-sorting-usuario4.jpg)
+![](images/card-sorting-usuario5.jpg)
 
 
 ### Proceso de Sketching
@@ -388,8 +396,6 @@ Wireframes de sitio en B&N
 
 ## PRUEBAS DE USABILIDAD
 
-![UserTest](images/UserTest.JPG)
-
 ### PRUEBA 1
 
 **Conclusiones**
@@ -410,14 +416,11 @@ Implementar un botón que active el chat para contactar a la asesora de una mane
 
 
 ## Propuesta de solución
-La propuesta que generamos para la empresa GIC Tóner busca atacar 3 dolencias principales:
+
 
 ![Solución](images/solucion_intro.png)
+La propuesta que generamos para la empresa GIC Tóner busca atacar 3 dolencias principales:
 
-**Generar confianza**
-GIC Tóner es una muy buena experiencia para quien ya los conoce, pero es muy difícil para un cliente nuevo, confiar de la nada en una llamada telefónica o un mail que no ha requerido, es por ello que con base a una estandarización de la imagen, un speech más conciso y mayor claridad sobre sus procesos los clientes nuevos tienen mayor certeza sobre de qué se trata el negocio y a quien le está mandando sus datos.
-
-Además la intensión de trasladar el trato que dan a sus clientes de manera offline a online para crear un lazo humano entre GIC Tóner con las personas, que genere confianza y permita construir experiencias que los hagan recordar no lo que dice o hace GIC Tóner sino de como los hizo sentirse.
 
 **Unidad**
 Al tener un mensaje con un tono y manera estandarizado generas una sensación de unidad que le permite al usuario percibir que son una empresa seria.
@@ -426,6 +429,11 @@ Al tener un mensaje con un tono y manera estandarizado generas una sensación de
 Uno de los principales temores de los usuarios es que al utilizar cartuchos remanufacturados sus equipos de impresión se dañen, que no duren lo suficiente como un cartucho original o que las impresiones sean de baja calidad, además de que mucha gente confunde el término remanufactura con recarga o relleno, llegándolos a utilizar como sinónimos.
 
 Por ello es muy importante tratar de cambiar el enfoque que tienen los usuarios acerca de los cartuchos remanufacturados a través de palabras que agreguen un valor positivo como renovados y ecológicos, ya que finalmente estas dos palabras definen en realidad a este tipo de producto.
+
+**Generar confianza**
+GIC Tóner es una muy buena experiencia para quien ya los conoce, pero es muy difícil para un cliente nuevo, confiar de la nada en una llamada telefónica o un mail que no ha requerido, es por ello que con base a una estandarización de la imagen, un speech más conciso y mayor claridad sobre sus procesos los clientes nuevos tienen mayor certeza sobre de qué se trata el negocio y a quien le está mandando sus datos.
+
+Además la intensión de trasladar el trato que dan a sus clientes de manera offline a online para crear un lazo humano entre GIC Tóner con las personas, que genere confianza y permita construir experiencias que los hagan recordar no lo que dice o hace GIC Tóner sino de como los hizo sentirse.
 
 ![Prototipo Figma](images/prototipo.jpg)
 [Prototipo Figma](https://www.figma.com/proto/rCFanWCefPPivyY8UkXbQf/Prototipo-Website-GIC-T%C3%B3ner-Copy?scaling=min-zoom)
