@@ -358,7 +358,7 @@ Con todas las pruebas que hicimos con nuestros usuarios nos dimos cuenta que en 
 * Garantía GIC Tóner puede ser un valor esencial de la marca.
 * Se mencionó la necesidad de una facturación sencilla.
 
-![](images/card-sorting-usuario1.jpg) ![](card-sorting-usuario2.jpg) ![](card-sorting-usuario3.jpg) ![](card-sorting-usuario4.jpg) ![](card-sorting-usuario5.jpg)
+![](images/card-sorting-usuario1.jpg) ![](images/card-sorting-usuario2.jpg) ![](images/card-sorting-usuario3.jpg) ![](imagres/card-sorting-usuario4.jpg) ![](images/card-sorting-usuario5.jpg)
 
 
 ### Proceso de Sketching
