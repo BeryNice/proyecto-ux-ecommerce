@@ -343,6 +343,8 @@ En el proceso de generar la organización no sólo del sitio sino también del f
 * Se muestra como una tienda en línea pero no tiene ninguna función real de tienda.
 * El chat es poco atendido.
 
+![Simulación de Tienda en Línea](images/tiendasimulada.png)
+
 
 ### CARDSORTING
 **Insights**
