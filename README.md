@@ -1,5 +1,5 @@
-# E-commerce
 ![e-commerce](images/bannerproyecto.jpg)
+
 ## Problema
 
 Las pymes tienen muchos problemas para consolidarse, las unidades de negocio en México viven 7.7 años en promedio de acuerdo con el INEGI, las razones por las que una empresa tenga éxito o desaparezca son multifactoriales: la salud financiera del país donde se desarrollen, la estrategia con la que planteen su dirección de trabajo o si tienen una.
@@ -93,6 +93,8 @@ Servicios:
 * Proporcionar a los prospectos y clientes la información de servicios y productos adicionales a los cartuchos remanufacturados.
 * Compartir la experiencia del uso de cartuchos remanufacturados de clientes actuales a través de testimoniales.
 * Migrar la experiencia offline de atención al cliente a online para brindar la misma atención personalizada a los usuarios nuevos
+
+![](images/modelo-de-negocio-GIC-TONER.png)
 
 [Modelo de Negocio](https://docs.google.com/document/d/1ZpI653SXqLEvcTGCAWiWFU43xgc5bh1BFQxQF08MD5c/edit?usp=sharing)
 
