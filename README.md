@@ -388,6 +388,8 @@ Wireframes de sitio en B&N
 
 ## PRUEBAS DE USABILIDAD
 
+![UserTest](images/UserTest.JPG)
+
 ### PRUEBA 1
 
 **Conclusiones**
