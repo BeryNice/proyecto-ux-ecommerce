@@ -95,8 +95,9 @@ Servicios:
 * Migrar la experiencia offline de atención al cliente a online para brindar la misma atención personalizada a los usuarios nuevos
 
 ![](images/modelo-de-negocio-GIC-TONER.png)
-
 [Modelo de Negocio](https://docs.google.com/document/d/1ZpI653SXqLEvcTGCAWiWFU43xgc5bh1BFQxQF08MD5c/edit?usp=sharing)
+
+
 
 ## Descubrimiento e investigación
 ### Primera Entrevista con el Cliente
@@ -117,6 +118,9 @@ Duración de la primera grabación: 17 min
 
 
 [Transcipción Segunda Entrevista Cliente](https://drive.google.com/open?id=1zw6u3-rAH1aebbUoBz_Rll9cvTUtdL77Mhwh5sW2qDs)
+
+![Entrevista Cliente](images/entrevista_cliente.jpg)
+
 
 #### Insights entrevista con el cliente
 
