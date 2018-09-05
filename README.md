@@ -1,5 +1,5 @@
 # E-commerce
-![e-commerce](image/Título_Proyecto.jpg)
+![e-commerce](images/Título_Proyecto.jpg)
 ## Problema
 
 Las pymes tienen muchos problemas para consolidarse, las unidades de negocio en México viven 7.7 años en promedio de acuerdo con el INEGI, las razones por las que una empresa tenga éxito o desaparezca son multifactoriales: la salud financiera del país donde se desarrollen, la estrategia con la que planteen su dirección de trabajo o si tienen una.
