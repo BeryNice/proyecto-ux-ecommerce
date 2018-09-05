@@ -412,6 +412,7 @@ Implementar un botón que active el chat para contactar a la asesora de una mane
 ## Propuesta de solución
 La propuesta que generamos para la empresa GIC Tóner busca atacar 3 dolencias principales:
 
+![Solución](images/solucion_intro.png)
 
 **Generar confianza**
 GIC Tóner es una muy buena experiencia para quien ya los conoce, pero es muy difícil para un cliente nuevo, confiar de la nada en una llamada telefónica o un mail que no ha requerido, es por ello que con base a una estandarización de la imagen, un speech más conciso y mayor claridad sobre sus procesos los clientes nuevos tienen mayor certeza sobre de qué se trata el negocio y a quien le está mandando sus datos.
