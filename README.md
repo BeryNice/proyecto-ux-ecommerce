@@ -389,6 +389,19 @@ Implementar un botón que active el chat para contactar a la asesora de una mane
 [Video User testing 2](https://www.useloom.com/share/016b5509eaa34e95a8d63492abcd6376)
 
 
+**Mejoras tras iteraciones**
+
+Tras las iteraciones la página de inicio sufrió algunos cambios en la presentación del contenido y se reorganizó el menú principal y el menú secundario.
+![Evolución tras iteraciones inicio](images/iteracion-vista-inicio.jpg)
+
+En la vista de productos se agregó un módulo de firltrado para mejorar la experiencia del usuario al momemento de la búsqueda del cartucho por marca y/o modelo.
+![Evolución tras iteraciones Filtro de búsqueda y despliegue de productos](images/iteracion-vista-cartuchos.jpg)
+
+La vista de detalle del producto tuvo varios cambios que ayudaron a mejorar la organización de la información y los elementos que se despliegan dentro de esta sección para conseguir el contacto con una asesora de ventas a través de atención por chat o solicitar la llamada a través de un formulario de contacto para ayudar al usuario a efectuar la compra del producto.
+![Evolución tras iteraciones vista detalle producto y formas de contactar asesora de ventas](images/iteracion-vista-cartucho-detalle.jpg)
+
+
+
 ## Propuesta de solución
 La propuesta que generamos para la empresa GIC Tóner busca atacar 3 dolencias principales:
 
@@ -396,7 +409,7 @@ La propuesta que generamos para la empresa GIC Tóner busca atacar 3 dolencias p
 **Generar confianza**
 GIC Tóner es una muy buena experiencia para quien ya los conoce, pero es muy difícil para un cliente nuevo, confiar de la nada en una llamada telefónica o un mail que no ha requerido, es por ello que con base a una estandarización de la imagen, un speech más conciso y mayor claridad sobre sus procesos los clientes nuevos tienen mayor certeza sobre de qué se trata el negocio y a quien le está mandando sus datos. 
 
-Además la intensión de trasladar el trato que dan a sus clientes de manera offline a online para crear un lazo humano entre GIC Tóner con las personas, que genere confianza y permita construir experiencias que los hagan recordar no lo que dice o hace GIC Tóner sino de como los hizo sentirse.
+Además la intensión de trasladar el trato que dan a sus clientes de manera offline a online para crear un lazo humano entre GIC Tóner con las personas, que genere confianza y permita construir experiencias que los hagan recordar no lo que dice o hace GIC Tóner sino de como los hizo sentirse durante el proceso de compra.
 
 **Unidad**
 Al tener un mensaje con un tono y manera estandarizado generas una sensación de unidad que le permite al usuario percibir que son una empresa seria.
