@@ -255,7 +255,7 @@ Realizamos una tercera entrevista con el cliente para disipar dudas concretas so
 ### BENCHMARK
 [Benchmarks en Excel](https://docs.google.com/spreadsheets/d/1ULUEUPA4drl1JHAzyJt6YSb4sNF4c7fk7JEqYCzJD2c/edit?usp=sharing)
 
-##### BENCHMARK Competencia.
+#### BENCHMARK Competencia.
 
 En la comparativa de servicios de los competidores los valores a mapear fueron:
 
@@ -288,7 +288,7 @@ Con estas dos estrategias logramos generar un diferencial a nivel de imagen y pr
 ![Benchmark competidores](images/benchmark-competidores.png)
 
 
-##### BENCHMARK SERVICIOS.
+#### BENCHMARK SERVICIOS.
 
 Con respecto a la comparativa de servicios observamos detalles de funcionamiento de tres plataformas que son líderes dentro del ramo:
 
@@ -313,7 +313,7 @@ Los valores a mapear fueron:
 
 * En conclusión, aunque no podemos competir en cuestión a volumen con estas tiendas, nuestro cliente se distingue por su producto económico y por adaptarse a las necesidades de sus usuarios, quizás no puedan ser como Office Depot todavía pero si pueden quitarle algunos clientes.
 
-![Benchmark servicios](images/benchmarck-servicios.png)
+![Benchmark servicios](images/benchmark-servicios.png)
 
 
 ## User Personas Secundarias
