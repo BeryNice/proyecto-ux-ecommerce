@@ -1,4 +1,9 @@
-![e-commerce](images/bannerproyecto.jpg)
+# PROYECTO UX E-COMMERCE
+GIC Toner es un proyecto de rediseño web en el que creamos la experiencia de usuario para un e-commerce
+
+![e-commerce-gictoner-preview](images/gic-toner-preview.jpg)
+
+#### Desarrollado para [Laboratoria](https://laboratroria.la)
 
 ## Problema
 
@@ -20,7 +25,7 @@ No caer en suposiciones, nuestro principal propósito en este ejercicio es brind
 ## Proceso de diseño
 
 Nuestro método de investigación tomó como punto de partida los conceptos de **Desing Thinking** que nos brinda un mapa coherente de cómo aproximarnos a una problemática, además de que nos permite mirar hacia atrás en nuestros pasos para poder rectificar el camino.
-Hay que buscar llegar al testeo y la implementación, pero no sin comprender el problema de la manera más profunda que podamos, una investigación robusta y un análisis de ésta es la columna vertebral de las soluciones por venir, si prescindimos de esta profundidad cualquier corrección a la implementación sería básicamente intentar encontrar la respuesta dentro de una caja vacía.  
+Hay que buscar llegar al testeo y la implementación, pero no sin comprender el problema de la manera más profunda que podamos, una investigación robusta y un análisis de ésta es la columna vertebral de las soluciones por venir, si prescindimos de esta profundidad cualquier corrección a la implementación sería básicamente intentar encontrar la respuesta dentro de una caja vacía. 
 
 ![DesingThinking](https://upload.wikimedia.org/wikipedia/commons/4/41/Designthinking.png)
 
@@ -106,18 +111,18 @@ En esta primera entrevista buscamos conocer más a detalle cómo es la estructur
 
 [Guía para entrevista cliente](https://drive.google.com/open?id=1BBiWblK_G-skLgLjwi8Y0DMxcKxy6ngVk88NWFeVfoQ)
 
-[Transcipción Primera Entrevista Cliente](https://drive.google.com/open?id=1mlTGSyEpSw-VhyUcgnF4gmHe79sw2E5XUHoA7j__q9k)
+[Transcripción Primera Entrevista Cliente](https://drive.google.com/open?id=1mlTGSyEpSw-VhyUcgnF4gmHe79sw2E5XUHoA7j__q9k)
 
 ### Segunda Entrevista con el Cliente
 
-El motivo de esta entrevista es platicar con la otra parte de la asociación del negocio Juliana Silva pues ella se encarga de la búsqueda de clientes y concretar ventas, por lo que nos interesa conocer sus procesos para así generar insights que puedan devenir en crear la persona usuario y su customer journey.
+El motivo de esta entrevista es platicar con la otra parte de la asociación del negocio, Juliana Silva, pues ella se encarga de la búsqueda de clientes y concretar ventas, por lo que nos interesa conocer sus procesos para así generar insights que puedan devenir en crear la persona usuario y su customer journey.
 
 
 Fecha: 19 de agosto 2018
 Duración de la primera grabación: 17 min
 
 
-[Transcipción Segunda Entrevista Cliente](https://drive.google.com/open?id=1zw6u3-rAH1aebbUoBz_Rll9cvTUtdL77Mhwh5sW2qDs)
+[Transcripción Segunda Entrevista Cliente](https://drive.google.com/open?id=1zw6u3-rAH1aebbUoBz_Rll9cvTUtdL77Mhwh5sW2qDs)
 
 ![Entrevista Cliente](images/entrevista_cliente.jpg)
 
@@ -147,7 +152,7 @@ Después de la información obtenida por el cliente pudimos esbozar un primer pe
 
 [Guía para entrevista usuarios](https://drive.google.com/open?id=1BGC9VQ6qAvL7ctkC-pfeVFE9OJbSGO1WWB97m8TBoM0)
 
-[Transcipción entrevistas usuarios](https://drive.google.com/open?id=1z4isjIAOpzccIR7eaKp34juUJPLZ0YJ0EmEP6tPX20k)
+[Transcripción entrevistas usuarios](https://drive.google.com/open?id=1z4isjIAOpzccIR7eaKp34juUJPLZ0YJ0EmEP6tPX20k)
 
 
 ### Insights Entrevistas Usuarios
@@ -198,7 +203,7 @@ Un cartucho original es aquel que está fabricado bajo la marca del fabricante o
 [Infografía: descubriendo los problemas del tóner no original
 ](https://www.muycomputer.com/2015/10/29/infografia-descubriendo-los-problemas-del-toner-no-original/)
 
-### Benchmark comparativo ventajas y desventajas tipos de toner
+### Benchmark comparativo ventajas y desventajas tipos de tóner
 ![Benchmark-comparativo](images/Benchmark-comparativo.png)
 
 
@@ -233,7 +238,6 @@ Después de esta entrevista con el cliente y su socia (vendedora) pudimos obtene
 * La experiencia del usuario es muy placentera ya que es un cliente asiduo pero muy dolorosa cuando es un cliente nuevo pues está lleno de incertidumbres.
 * La mayoría de los procesos son OFF Line.
 
-_________________________________________________________________________
 
 ### Tercera entrevista al cliente
 
@@ -277,11 +281,11 @@ En la comparativa de servicios de los competidores los valores a mapear fueron:
 
 * Entre los competidores más fuertes observamos que cuentan con tienda en línea lo que hace que sean rivales aún más grandes, además de tener presencia en distintas ciudades ofrecen envío gratuito sin mínimo de compra en CDMX o gratis al recogerlo directamente en tienda, La mayoría de los competidores analizados manejan envío a través de terceros y un servicio express no mayor a 3 hrs. o entre 24 y 48 hrs. con precios que rondan entre los $87 y $120, todos los competidores comparados ofrecen atención a clientes personalizada y sólo uno de ellos muestra una certificación ISO 9001:14001 en su sitio web.
 
-Por la parte visual notamos que la mayoría de los sitios web que comparamos tenían una identidad en la que implementaban los colores CMYK o variantes para hacer referencia al giro de impresión o una identidad multicolor, siendo el azul el color primario utilizado mayormente en su interfaz para resaltar ciertos elementos.
+Por la parte visual notamos que la mayoría de los sitios web que comparamos tenían una identidad en la que implementan los colores CMYK o variantes para hacer referencia al giro de impresión o una identidad multicolor, siendo el azul el color primario utilizado mayormente en su interfaz para resaltar ciertos elementos.
 
 * En conclusión, aunque consideramos que la atención personalizada y entrega gratuita en 24 hrs era lo que hacía especial a nuestro cliente, con este análisis pudimos observar que la mayoría de los competidores ofrecen cosas muy similares por lo cual nuestra estrategia sería destacarlos por la calidad de su producto, abordando la temática de cartuchos remanufacturados de una forma ecológica, con esto disminuiría la carga negativa hacia el uso de cartuchos remanufacturados.
 
-En cuanto a la parte visual decidimos destacar a GIC Tóner por el color, implementando una combinación de tonos verde y azul claro. Si todas las marcas de la competencia utilizan colores similiares tenemos que posicionar a GIC tóner con una combinación de colores que no esté en uso.
+En cuanto a la parte visual decidimos destacar a GIC Tóner por el color, implementando una combinación de tonos verde y azul claro. Si todas las marcas de la competencia utilizan colores similares tenemos que posicionar a GIC tóner con una combinación de colores que no esté en uso.
 
 Con estas dos estrategias logramos generar un diferencial a nivel de imagen y proyección frente a la competencia.
 
@@ -403,7 +407,7 @@ Wireframes de sitio en B&N
 ### PRUEBA 1
 
 **Conclusiones**
-De esta primer prueba con prototipo clickeable concluimos que la organización visual del contenido es agradable para los usuarios, en cuanto al flujo de usuario surgieron algunas observaciones de funcionalidad en puntos específicos en donde el usuario esperaba de manera intuitiva un flujo de compra inmediata ya que al entrar a la vista de detalle del producto esperaba encontrar un botón  de compra y no un formulario solicitando datos para que una asesora de ventas lo contactara inmediatamente vía telefónica.
+De esta primer prueba con prototipo clickeable concluimos que la organización visual del contenido es agradable para los usuarios, en cuanto al flujo de usuario surgieron algunas observaciones de funcionalidad en puntos específicos en donde el usuario esperaba de manera intuitiva un flujo de compra inmediata ya que al entrar a la vista de detalle del producto esperaba encontrar un botón  de compra y no un formulario solicitando datos para que una asesora de ventas lo contactará inmediatamente vía telefónica.
 
 En cuanto a la sección de servicios nuestro usuario indicó que consideraba que los servicios de entrega gratuita y express no corresponden propiamente a la sección de servicios y que sólo se deberían mantener ahí el servicio a mantenimiento preventivo de impresoras y servicio de papelería.
 
@@ -424,7 +428,7 @@ Implementar un botón que active el chat para contactar a la asesora de una mane
 Tras las iteraciones la página de inicio sufrió algunos cambios en la presentación del contenido y se reorganizó el menú principal y el menú secundario.
 ![Evolución tras iteraciones inicio](images/iteracion-vista-inicio.jpg)
 
-En la vista de productos se agregó un módulo de firltrado para mejorar la experiencia del usuario al momemento de la búsqueda del cartucho por marca y/o modelo.
+En la vista de productos se agregó un módulo de filtrado para mejorar la experiencia del usuario al momento de la búsqueda del cartucho por marca y/o modelo.
 ![Evolución tras iteraciones Filtro de búsqueda y despliegue de productos](images/iteracion-vista-cartuchos.jpg)
 
 La vista de detalle del producto tuvo varios cambios que ayudaron a mejorar la organización de la información y los elementos que se despliegan dentro de esta sección para conseguir el contacto con una asesora de ventas a través de atención por chat o solicitar la llamada a través de un formulario de contacto para ayudar al usuario a efectuar la compra del producto.
@@ -434,11 +438,10 @@ La vista de detalle del producto tuvo varios cambios que ayudaron a mejorar la o
 
 ## Propuesta de solución
 
-
 ![Solución](images/solucion_intro.png)
 La propuesta que generamos para la empresa GIC Tóner busca atacar 3 dolencias principales:
 
-Además la intensión de trasladar el trato que dan a sus clientes de manera offline a online para crear un lazo humano entre GIC Tóner con las personas, que genere confianza y permita construir experiencias que los hagan recordar no lo que dice o hace GIC Tóner sino de como los hizo sentirse durante el proceso de compra.
+Además la intención de trasladar el trato que dan a sus clientes de manera offline a online para crear un lazo humano entre GIC Tóner con las personas, que genere confianza y permita construir experiencias que los hagan recordar no lo que dice o hace GIC Tóner sino de cómo los hizo sentirse durante el proceso de compra.
 
 **Unidad**
 Al tener un mensaje con un tono y manera estandarizado generas una sensación de unidad que le permite al usuario percibir que son una empresa seria.
@@ -452,7 +455,7 @@ El rediseño de la **Carta presentación** acorde a la imagen de la página web 
 [Landing](https://www.figma.com/proto/O3TWQnXO47hnyEFfWYVyrhnV/Landing-Page?scaling=min-zoom)
 
 **Desestigmatizar**
-Uno de los principales temores de los usuarios es que al utilizar cartuchos remanufacturados sus equipos de impresión se dañen, que no duren lo suficiente como un cartucho original o que las impresiones sean de baja calidad, además de que mucha gente confunde el término remanufactura con recarga o relleno, llegándolos a utilizar como sinónimos.
+Uno de los principales temores de los usuarios es que al utilizar cartuchos remanufacturados sus equipos de impresión se dañen, que no duren lo suficiente como un cartucho original o que las impresiones sean de baja calidad, además de que mucha gente confunde el término remanufactura con recarga o relleno, llegando a utilizarlos como sinónimos.
 
 Por ello es muy importante tratar de cambiar el enfoque que tienen los usuarios acerca de los cartuchos remanufacturados a través de palabras que agreguen un valor positivo como renovados y ecológicos, ya que finalmente estas dos palabras definen en realidad a este tipo de producto.
 
