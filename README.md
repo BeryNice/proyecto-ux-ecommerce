@@ -3,7 +3,7 @@ GIC Toner es un proyecto de rediseño web en el que creamos la experiencia de us
 
 ![e-commerce-gictoner-preview](images/gic-toner-preview.jpg)
 
-### Desarrollado para Laboratoria(https://laboratroria.la)
+#### Desarrollado para [Laboratoria](https://laboratroria.la)
 
 ## Problema
 
