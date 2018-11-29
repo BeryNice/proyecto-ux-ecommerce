@@ -1,7 +1,7 @@
 # PROYECTO UX E-COMMERCE
 GIC Toner es un proyecto de rediseño web en el que creamos la experiencia de usuario para un e-commerce
 
-![e-commerce-gictoner-preview](images/gic-toner-preview.jpg)
+![e-commerce-gictoner-preview](https://user-images.githubusercontent.com/39560690/49237307-888e4e80-f3c3-11e8-9bae-2d5b83c64370.jpg)
 
 #### Desarrollado para [Laboratoria](https://laboratroria.la)
 
